@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "ticker": "MARK",
+    "full_symbol": "MARK.JK",
+    "fase": "FASE 2 - UPTREND",
+    "score": 60,
+    "alasan": "🔥 AKUM GANDA MM+FOREIGN | ✅ DISTRI 0% | 📈 MA20 NAIK | ✅ DI ATAS MA20 | ⚠️ AGAK JAUH MA20",
+    "info": "Score: 60.0 | BM:60 PA:85 MKT:5 | RS Alpha: 21.2% | Trans: 15.8B | Entry~840 [TUNGGU PULLBACK] | SL 765 | TP 985 | RR 1:2.0 | RENDAH",
+    "timestamp": "22-06-2026 13:03:52"
+  },
+  {
+    "ticker": "MDKA",
+    "full_symbol": "MDKA.JK",
+    "fase": "FASE 2 - UPTREND",
+    "score": 57,
+    "alasan": "🔥 AKUM GANDA MM+FOREIGN | ✅ DISTRI 0% | 📈 MA20 NAIK | ✅ DI ATAS MA20 | ⚠️ AGAK JAUH MA20",
+    "info": "Score: 57.0 | BM:60 PA:75 MKT:5 | RS Alpha: 39.6% | Trans: 105.6B | Entry~2690 [TUNGGU PULLBACK] | SL 2310 | TP 3450 | RR 1:2.0 | RENDAH",
+    "timestamp": "22-06-2026 13:03:52"
+  },
+  {
+    "ticker": "ERAA",
+    "full_symbol": "ERAA.JK",
+    "fase": "FASE 2 - UPTREND",
+    "score": 58,
+    "alasan": "🔥 AKUM GANDA MM+FOREIGN | ✅ DISTRI 0% | 📈 MA20 NAIK | ✅ DI ATAS MA20 | ✅ DEKAT MA20",
+    "info": "Score: 58.0 | BM:60 PA:80 MKT:0 | RS Alpha: 7.0% | Trans: 6.8B | Entry~370 [DEKAT MA20] | SL 344 | TP 422 | RR 1:2.0 | RENDAH",
+    "timestamp": "22-06-2026 13:03:52"
+  },
+  {
+    "ticker": "ESIP",
+    "full_symbol": "ESIP.JK",
+    "fase": "FASE 3 - REVERSAL",
+    "score": 51,
+    "alasan": "✅ AKUMULASI MM | ✅ DISTRI 0% | 📈 MA20 NAIK | ✅ DI ATAS MA20 | ⚠️ JAUH MA20",
+    "info": "Score: 51.0 | BM:45 PA:90 MKT:5 | OBV: 10.9% | MF: MF KUAT | Entry~121 [KONFIRMASI HL+MA20] | SL 109 | TP 145 | RR 1:2.0 | RENDAH",
+    "timestamp": "22-06-2026 13:03:52"
+  },
+  {
+    "ticker": "TINS",
+    "full_symbol": "TINS.JK",
+    "fase": "FASE 3 - REVERSAL",
+    "score": 51,
+    "alasan": "✅ AKUMULASI MM | ✅ DISTRI 0% | 📈 MA20 NAIK | ✅ DI ATAS MA20 | ⚠️ AGAK JAUH MA20",
+    "info": "Score: 51.0 | BM:45 PA:90 MKT:5 | OBV: 721.3% | MF: MF KUAT | Entry~3320 [KONFIRMASI HL+MA20] | SL 3400 | TP 3610 | RR 1:2.0 | RENDAH",
+    "timestamp": "22-06-2026 13:03:52"
+  }
+]
