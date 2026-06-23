@@ -5,44 +5,35 @@
     "fase": "FASE 1 - SIDEWAYS",
     "score": 80,
     "alasan": "Sideways Setup 15H (9.5%), V-DryUp Max, Institutional Storage, Market Belum Mendukung, LEADER KUAT (Outperform IHSG)",
-    "info": "MM: Netral(D) | For: Netral | Peluang: SEDANG | Trigger Buy >967.29 | Entry~975 | SL 940 | TP 1045 | RR 1:2.0",
-    "timestamp": "23-06-2026 08:54:38"
+    "info": "MM: Netral(D) | For: Netral | Peluang: SEDANG | Trigger Buy >967.29 | Entry~975 | SL 940 | TP 1040 | RR 1:2.0",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
-    "ticker": "UNVR",
-    "full_symbol": "UNVR.JK",
+    "ticker": "DSSA",
+    "full_symbol": "DSSA.JK",
     "fase": "FASE 2 - UPTREND",
-    "score": 75,
-    "alasan": "Bullish Structure, MA20 Slope Up, Outperform IHSG, Smart Money Tail, Institutional Re-Accum, Market Belum Mendukung, Entry Ideal (Dekat MA20)",
-    "info": "RS Alpha: 8.3% | Trans: 13.8B | Peluang: SEDANG | Entry~1700 [IDEAL-DEKAT MA20] | SL 1575 | TP 1945 | RR 1:2.0 | ✅ BANDAR AKUM AKTIF (41.0%) | ✅ FOREIGN BUY",
-    "timestamp": "23-06-2026 08:54:38"
+    "score": 80,
+    "alasan": "Bullish Structure, MA20 Slope Up, Leader Kuat vs IHSG, Mark-Up Volume Boost, Smart Money Tail, Institutional Re-Accum, Market Belum Mendukung, ⚠ Jauh Dari MA20 - Tunggu Pullback",
+    "info": "RS Alpha: 56.3% | Trans: 1843.3B | Peluang: SEDANG | Entry~680 [HARGA SEKARANG 830, TUNGGU KOREKSI] | SL 515 | TP 1010 | RR 1:2.0 | ✅ BANDAR AKUM AKTIF (45.3%) | ✅ FOREIGN BUY",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
-    "ticker": "TINS",
-    "full_symbol": "TINS.JK",
+    "ticker": "MSJA",
+    "full_symbol": "MSJA.JK",
     "fase": "FASE 2 - UPTREND",
     "score": 75,
-    "alasan": "Bullish Structure, MA20 Slope Up, Leader Kuat vs IHSG, Smart Money Tail, Institutional Re-Accum, Market Belum Mendukung, ⚠ Agak Jauh MA20 (Tunggu Pullback)",
-    "info": "RS Alpha: 23.8% | Trans: 260.4B | Peluang: SEDANG | Entry~3340 [TUNGGU PULLBACK KE MA20] | SL 2910 | TP 4190 | RR 1:2.0 | ✅ BANDAR AKUM AKTIF (40.2%) | ✅ FOREIGN BUY",
-    "timestamp": "23-06-2026 08:54:38"
+    "alasan": "Bullish Structure, MA20 Slope Up, Outperform IHSG, Mark-Up Volume Boost, Institutional Re-Accum, Market Belum Mendukung, Entry Ideal (Dekat MA20)",
+    "info": "RS Alpha: 7.5% | Trans: 9.6B | Peluang: SEDANG | Entry~414 [IDEAL-DEKAT MA20] | SL 374 | TP 492 | RR 1:2.0 | ✅ BANDAR AKUM AKTIF (39.0%) | ✅ FOREIGN BUY",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
     "ticker": "BAIK",
     "full_symbol": "BAIK.JK",
     "fase": "FASE 2 - UPTREND",
-    "score": 75,
-    "alasan": "Bullish Structure, MA20 Slope Up, Outperform IHSG, Mark-Up Volume Boost, Institutional Re-Accum, Market Belum Mendukung, Entry Ideal (Dekat MA20)",
-    "info": "RS Alpha: 12.0% | Trans: 13.2B | Peluang: SEDANG | Entry~605 [IDEAL-DEKAT MA20] | SL 500 | TP 815 | RR 1:2.0 | ✅ BANDAR AKUM AKTIF (42.5%)",
-    "timestamp": "23-06-2026 08:54:38"
-  },
-  {
-    "ticker": "GJTL",
-    "full_symbol": "GJTL.JK",
-    "fase": "FASE 2 - UPTREND",
-    "score": 75,
-    "alasan": "Bullish Structure, MA20 Slope Up, Outperform IHSG, Smart Money Tail, Institutional Re-Accum, Market Belum Mendukung, Entry Ideal (Dekat MA20)",
-    "info": "RS Alpha: 12.9% | Trans: 3.4B | Peluang: SEDANG | Entry~1180 [IDEAL-DEKAT MA20] | SL 1105 | TP 1325 | RR 1:2.0 | ✅ BANDAR AKUM AKTIF (33.9%)",
-    "timestamp": "23-06-2026 08:54:38"
+    "score": 95,
+    "alasan": "Bullish Structure, MA20 Slope Up, Leader Kuat vs IHSG, Mark-Up Volume Boost, Smart Money Tail, Institutional Re-Accum, Market Belum Mendukung, ⚠ Agak Jauh MA20 (Tunggu Pullback)",
+    "info": "RS Alpha: 38.6% | Trans: 35.5B | Peluang: SEDANG | Entry~575 [TUNGGU PULLBACK KE MA20] | SL 462 | TP 800 | RR 1:2.0 | ✅ BANDAR AKUM AKTIF (42.5%)",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
     "ticker": "LSIP",
@@ -50,35 +41,17 @@
     "fase": "FASE 2 - UPTREND",
     "score": 75,
     "alasan": "Bullish Structure, MA20 Slope Up, Outperform IHSG, Smart Money Tail, Institutional Re-Accum, Market Belum Mendukung, Entry Ideal (Dekat MA20)",
-    "info": "RS Alpha: 7.8% | Trans: 14.9B | Peluang: SEDANG | Entry~1345 [IDEAL-DEKAT MA20] | SL 1255 | TP 1520 | RR 1:2.0 | ✅ BANDAR AKUM AKTIF (20.4%) | ⚠️ FOREIGN NET SELL",
-    "timestamp": "23-06-2026 08:54:38"
+    "info": "RS Alpha: 5.5% | Trans: 7.3B | Peluang: SEDANG | Entry~1335 [IDEAL-DEKAT MA20] | SL 1245 | TP 1515 | RR 1:2.0 | ✅ BANDAR AKUM AKTIF (20.4%) | ⚠️ FOREIGN NET SELL",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
-    "ticker": "BSML",
-    "full_symbol": "BSML.JK",
+    "ticker": "BYAN",
+    "full_symbol": "BYAN.JK",
     "fase": "FASE 2 - UPTREND",
     "score": 95,
     "alasan": "Bullish Structure, MA20 Slope Up, Leader Kuat vs IHSG, Mark-Up Volume Boost, Smart Money Tail, Institutional Re-Accum, Market Belum Mendukung, ⚠ Agak Jauh MA20 (Tunggu Pullback)",
-    "info": "RS Alpha: 18.4% | Trans: 13.7B | Peluang: SEDANG | Entry~420 [TUNGGU PULLBACK KE MA20] | SL 390 | TP 480 | RR 1:2.0 | ✅ FOREIGN BUY",
-    "timestamp": "23-06-2026 08:54:38"
-  },
-  {
-    "ticker": "MORA",
-    "full_symbol": "MORA.JK",
-    "fase": "FASE 2 - UPTREND",
-    "score": 95,
-    "alasan": "Bullish Structure, MA20 Slope Up, Leader Kuat vs IHSG, Mark-Up Volume Boost, Smart Money Tail, Institutional Re-Accum, Market Belum Mendukung, ⚠ Agak Jauh MA20 (Tunggu Pullback)",
-    "info": "RS Alpha: 21.3% | Trans: 27.1B | Peluang: SEDANG | Entry~6600 [TUNGGU PULLBACK KE MA20] | SL 5475 | TP 8850 | RR 1:2.0 | ✅ FOREIGN BUY",
-    "timestamp": "23-06-2026 08:54:38"
-  },
-  {
-    "ticker": "RAJA",
-    "full_symbol": "RAJA.JK",
-    "fase": "FASE 2 - UPTREND",
-    "score": 85,
-    "alasan": "Bullish Structure, MA20 Slope Up, Leader Kuat vs IHSG, Smart Money Tail, Institutional Re-Accum, Market Belum Mendukung, Entry Ideal (Dekat MA20)",
-    "info": "RS Alpha: 28.2% | Trans: 52.8B | Peluang: SEDANG | Entry~3740 [IDEAL-DEKAT MA20] | SL 3190 | TP 4830 | RR 1:2.0 | ✅ FOREIGN BUY | ⚠️ HATI-HATI MM MULAI DISTRI (-20.7%)",
-    "timestamp": "23-06-2026 08:54:38"
+    "info": "RS Alpha: 23.0% | Trans: 4.2B | Peluang: SEDANG | Entry~10250 [TUNGGU PULLBACK KE MA20] | SL 9025 | TP 12675 | RR 1:2.0 | ✅ FOREIGN BUY",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
     "ticker": "RATU",
@@ -86,26 +59,17 @@
     "fase": "FASE 2 - UPTREND",
     "score": 85,
     "alasan": "Bullish Structure, MA20 Slope Up, Leader Kuat vs IHSG, Smart Money Tail, Institutional Re-Accum, Market Belum Mendukung, Entry Ideal (Dekat MA20)",
-    "info": "RS Alpha: 28.1% | Trans: 12.1B | Peluang: SEDANG | Entry~4790 [IDEAL-DEKAT MA20] | SL 4100 | TP 6175 | RR 1:2.0 | ✅ FOREIGN BUY",
-    "timestamp": "23-06-2026 08:54:38"
+    "info": "RS Alpha: 19.3% | Trans: 58.1B | Peluang: SEDANG | Entry~5050 [IDEAL-DEKAT MA20] | SL 4390 | TP 6375 | RR 1:2.0 | ✅ FOREIGN BUY",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
-    "ticker": "BYAN",
-    "full_symbol": "BYAN.JK",
+    "ticker": "BSML",
+    "full_symbol": "BSML.JK",
     "fase": "FASE 2 - UPTREND",
-    "score": 80,
-    "alasan": "Bullish Structure, MA20 Slope Up, Leader Kuat vs IHSG, Mark-Up Volume Boost, Smart Money Tail, Institutional Re-Accum, Market Belum Mendukung, ⚠ Jauh Dari MA20 - Tunggu Pullback",
-    "info": "RS Alpha: 30.0% | Trans: 10.9B | Peluang: SEDANG | Entry~10150 [HARGA SEKARANG 13200, TUNGGU KOREKSI] | SL 9100 | TP 12250 | RR 1:2.0 | ✅ FOREIGN BUY",
-    "timestamp": "23-06-2026 08:54:38"
-  },
-  {
-    "ticker": "ESIP",
-    "full_symbol": "ESIP.JK",
-    "fase": "FASE 2 - UPTREND",
-    "score": 80,
-    "alasan": "Bullish Structure, MA20 Slope Up, Leader Kuat vs IHSG, Mark-Up Volume Boost, Smart Money Tail, Institutional Re-Accum, Market Belum Mendukung, ⚠ Jauh Dari MA20 - Tunggu Pullback",
-    "info": "RS Alpha: 24.0% | Trans: 87.4B | Peluang: SEDANG | Entry~122 [HARGA SEKARANG 150, TUNGGU KOREKSI] | SL 94 | TP 177 | RR 1:2.0 | ✅ FOREIGN BUY",
-    "timestamp": "23-06-2026 08:54:38"
+    "score": 75,
+    "alasan": "Bullish Structure, MA20 Slope Up, Leader Kuat vs IHSG, Smart Money Tail, Institutional Re-Accum, Market Belum Mendukung, ⚠ Agak Jauh MA20 (Tunggu Pullback)",
+    "info": "RS Alpha: 22.1% | Trans: 7.2B | Peluang: SEDANG | Entry~424 [TUNGGU PULLBACK KE MA20] | SL 392 | TP 486 | RR 1:2.0 | ✅ FOREIGN BUY",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
     "ticker": "CYBR",
@@ -113,8 +77,8 @@
     "fase": "FASE 2 - UPTREND",
     "score": 75,
     "alasan": "Bullish Structure, MA20 Slope Up, Outperform IHSG, Smart Money Tail, Institutional Re-Accum, Market Belum Mendukung, Entry Ideal (Dekat MA20)",
-    "info": "RS Alpha: 14.1% | Trans: 14.8B | Peluang: SEDANG | Entry~655 [IDEAL-DEKAT MA20] | SL 590 | TP 785 | RR 1:2.0 | ✅ FOREIGN BUY",
-    "timestamp": "23-06-2026 08:54:38"
+    "info": "RS Alpha: 14.0% | Trans: 15.5B | Peluang: SEDANG | Entry~660 [IDEAL-DEKAT MA20] | SL 595 | TP 785 | RR 1:2.0 | ✅ FOREIGN BUY",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
     "ticker": "MARK",
@@ -122,35 +86,26 @@
     "fase": "FASE 2 - UPTREND",
     "score": 75,
     "alasan": "Bullish Structure, MA20 Slope Up, Leader Kuat vs IHSG, Smart Money Tail, Institutional Re-Accum, Market Belum Mendukung, ⚠ Agak Jauh MA20 (Tunggu Pullback)",
-    "info": "RS Alpha: 19.7% | Trans: 19.3B | Peluang: SEDANG | Entry~840 [TUNGGU PULLBACK KE MA20] | SL 765 | TP 985 | RR 1:2.0 | ✅ FOREIGN BUY",
-    "timestamp": "23-06-2026 08:54:38"
+    "info": "RS Alpha: 21.3% | Trans: 29.9B | Peluang: SEDANG | Entry~845 [TUNGGU PULLBACK KE MA20] | SL 770 | TP 995 | RR 1:2.0 | ✅ FOREIGN BUY",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
-    "ticker": "MYOR",
-    "full_symbol": "MYOR.JK",
+    "ticker": "RAJA",
+    "full_symbol": "RAJA.JK",
     "fase": "FASE 2 - UPTREND",
     "score": 75,
-    "alasan": "Bullish Structure, MA20 Slope Up, Outperform IHSG, Smart Money Tail, Institutional Re-Accum, Market Belum Mendukung, Entry Ideal (Dekat MA20)",
-    "info": "RS Alpha: 7.6% | Trans: 14.1B | Peluang: SEDANG | Entry~1850 [IDEAL-DEKAT MA20] | SL 1705 | TP 2140 | RR 1:2.0 | ✅ FOREIGN BUY | ⚠️ HATI-HATI MM MULAI DISTRI (-29.1%)",
-    "timestamp": "23-06-2026 08:54:38"
+    "alasan": "Bullish Structure, MA20 Slope Up, Leader Kuat vs IHSG, Smart Money Tail, Institutional Re-Accum, Market Belum Mendukung, ⚠ Agak Jauh MA20 (Tunggu Pullback)",
+    "info": "RS Alpha: 25.6% | Trans: 199.9B | Peluang: SEDANG | Entry~3540 [TUNGGU PULLBACK KE MA20] | SL 2980 | TP 4650 | RR 1:2.0 | ✅ FOREIGN BUY | ⚠️ HATI-HATI MM MULAI DISTRI (-20.7%)",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
-    "ticker": "STAA",
-    "full_symbol": "STAA.JK",
+    "ticker": "SMIL",
+    "full_symbol": "SMIL.JK",
     "fase": "FASE 2 - UPTREND",
     "score": 75,
-    "alasan": "Bullish Structure, MA20 Slope Up, Outperform IHSG, Smart Money Tail, Institutional Re-Accum, Market Belum Mendukung, Entry Ideal (Dekat MA20)",
-    "info": "RS Alpha: 11.2% | Trans: 6.1B | Peluang: SEDANG | Entry~1035 [IDEAL-DEKAT MA20] | SL 965 | TP 1170 | RR 1:2.0 | ✅ FOREIGN BUY",
-    "timestamp": "23-06-2026 08:54:38"
-  },
-  {
-    "ticker": "GPSO",
-    "full_symbol": "GPSO.JK",
-    "fase": "FASE 2 - UPTREND",
-    "score": 85,
-    "alasan": "Bullish Structure, MA20 Slope Up, Outperform IHSG, Mark-Up Volume Boost, Smart Money Tail, Institutional Re-Accum, Market Belum Mendukung, ⚠ Agak Jauh MA20 (Tunggu Pullback)",
-    "info": "RS Alpha: 6.5% | Trans: 38.1B | Peluang: SEDANG | Entry~438 [TUNGGU PULLBACK KE MA20] | SL 380 | TP 555 | RR 1:2.0",
-    "timestamp": "23-06-2026 08:54:38"
+    "alasan": "Bullish Structure, MA20 Slope Up, Outperform IHSG, Mark-Up Volume Boost, Institutional Re-Accum, Market Belum Mendukung, Entry Ideal (Dekat MA20)",
+    "info": "RS Alpha: 10.0% | Trans: 22.2B | Peluang: SEDANG | Entry~280 [IDEAL-DEKAT MA20] | SL 246 | TP 346 | RR 1:2.0 | ✅ FOREIGN BUY",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
     "ticker": "PSAB",
@@ -158,8 +113,8 @@
     "fase": "FASE 2 - UPTREND",
     "score": 85,
     "alasan": "Bullish Structure, MA20 Slope Up, Leader Kuat vs IHSG, Smart Money Tail, Institutional Re-Accum, Market Belum Mendukung, Entry Ideal (Dekat MA20)",
-    "info": "RS Alpha: 45.5% | Trans: 33.4B | Peluang: SEDANG | Entry~426 [IDEAL-DEKAT MA20] | SL 372 | TP 535 | RR 1:2.0",
-    "timestamp": "23-06-2026 08:54:38"
+    "info": "RS Alpha: 26.4% | Trans: 35.5B | Peluang: SEDANG | Entry~422 [IDEAL-DEKAT MA20] | SL 374 | TP 520 | RR 1:2.0",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
     "ticker": "BSSR",
@@ -167,8 +122,35 @@
     "fase": "FASE 2 - UPTREND",
     "score": 80,
     "alasan": "Bullish Structure, MA20 Slope Up, Leader Kuat vs IHSG, Mark-Up Volume Boost, Smart Money Tail, Market Belum Mendukung, ⚠ Agak Jauh MA20 (Tunggu Pullback)",
-    "info": "RS Alpha: 20.7% | Trans: 18.5B | Peluang: SEDANG | Entry~4110 [TUNGGU PULLBACK KE MA20] | SL 3970 | TP 4380 | RR 1:2.0",
-    "timestamp": "23-06-2026 08:54:38"
+    "info": "RS Alpha: 18.9% | Trans: 13.8B | Peluang: SEDANG | Entry~4140 [TUNGGU PULLBACK KE MA20] | SL 4000 | TP 4410 | RR 1:2.0",
+    "timestamp": "24-06-2026 06:40:22"
+  },
+  {
+    "ticker": "CLPI",
+    "full_symbol": "CLPI.JK",
+    "fase": "FASE 2 - UPTREND",
+    "score": 80,
+    "alasan": "Bullish Structure, MA20 Slope Up, Outperform IHSG, Mark-Up Volume Boost, Smart Money Tail, Market Belum Mendukung, Entry Ideal (Dekat MA20)",
+    "info": "RS Alpha: 14.6% | Trans: 3.6B | Peluang: SEDANG | Entry~1720 [IDEAL-DEKAT MA20] | SL 1635 | TP 1885 | RR 1:2.0",
+    "timestamp": "24-06-2026 06:40:22"
+  },
+  {
+    "ticker": "JAWA",
+    "full_symbol": "JAWA.JK",
+    "fase": "FASE 2 - UPTREND",
+    "score": 80,
+    "alasan": "Bullish Structure, MA20 Slope Up, Outperform IHSG, Mark-Up Volume Boost, Smart Money Tail, Market Belum Mendukung, Entry Ideal (Dekat MA20)",
+    "info": "RS Alpha: 5.6% | Trans: 11.2B | Peluang: SEDANG | Entry~128 [IDEAL-DEKAT MA20] | SL 108 | TP 167 | RR 1:2.0",
+    "timestamp": "24-06-2026 06:40:22"
+  },
+  {
+    "ticker": "JSMR",
+    "full_symbol": "JSMR.JK",
+    "fase": "FASE 2 - UPTREND",
+    "score": 80,
+    "alasan": "Bullish Structure, MA20 Slope Up, Outperform IHSG, Mark-Up Volume Boost, Smart Money Tail, Market Belum Mendukung, Entry Ideal (Dekat MA20)",
+    "info": "RS Alpha: 5.8% | Trans: 84.1B | Peluang: SEDANG | Entry~2850 [IDEAL-DEKAT MA20] | SL 2640 | TP 3270 | RR 1:2.0",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
     "ticker": "MAPA",
@@ -176,26 +158,8 @@
     "fase": "FASE 2 - UPTREND",
     "score": 75,
     "alasan": "Bullish Structure, MA20 Slope Up, Outperform IHSG, Smart Money Tail, Institutional Re-Accum, Market Belum Mendukung, Entry Ideal (Dekat MA20)",
-    "info": "RS Alpha: 5.7% | Trans: 9.8B | Peluang: SEDANG | Entry~605 [IDEAL-DEKAT MA20] | SL 550 | TP 710 | RR 1:2.0",
-    "timestamp": "23-06-2026 08:54:38"
-  },
-  {
-    "ticker": "MDKA",
-    "full_symbol": "MDKA.JK",
-    "fase": "FASE 2 - UPTREND",
-    "score": 75,
-    "alasan": "Bullish Structure, MA20 Slope Up, Leader Kuat vs IHSG, Smart Money Tail, Institutional Re-Accum, Market Belum Mendukung, ⚠ Agak Jauh MA20 (Tunggu Pullback)",
-    "info": "RS Alpha: 38.8% | Trans: 148.1B | Peluang: SEDANG | Entry~2690 [TUNGGU PULLBACK KE MA20] | SL 2310 | TP 3450 | RR 1:2.0 | ⚠️ FOREIGN NET SELL",
-    "timestamp": "23-06-2026 08:54:38"
-  },
-  {
-    "ticker": "TAPG",
-    "full_symbol": "TAPG.JK",
-    "fase": "FASE 2 - UPTREND",
-    "score": 75,
-    "alasan": "Bullish Structure, MA20 Slope Up, Outperform IHSG, Smart Money Tail, Institutional Re-Accum, Market Belum Mendukung, Entry Ideal (Dekat MA20)",
-    "info": "RS Alpha: 12.1% | Trans: 20.1B | Peluang: SEDANG | Entry~1525 [IDEAL-DEKAT MA20] | SL 1390 | TP 1795 | RR 1:2.0",
-    "timestamp": "23-06-2026 08:54:38"
+    "info": "RS Alpha: 10.9% | Trans: 7.3B | Peluang: SEDANG | Entry~620 [IDEAL-DEKAT MA20] | SL 570 | TP 720 | RR 1:2.0",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
     "ticker": "AYAM",
@@ -203,35 +167,8 @@
     "fase": "FASE 2 - UPTREND",
     "score": 70,
     "alasan": "Bullish Structure, MA20 Slope Up, Leader Kuat vs IHSG, Smart Money Tail, Market Belum Mendukung, Entry Ideal (Dekat MA20)",
-    "info": "RS Alpha: 20.0% | Trans: 14.5B | Peluang: SEDANG | Entry~348 [IDEAL-DEKAT MA20] | SL 324 | TP 396 | RR 1:2.0",
-    "timestamp": "23-06-2026 08:54:38"
-  },
-  {
-    "ticker": "BRMS",
-    "full_symbol": "BRMS.JK",
-    "fase": "FASE 2 - UPTREND",
-    "score": 70,
-    "alasan": "Bullish Structure, MA20 Slope Up, Leader Kuat vs IHSG, Smart Money Tail, Market Belum Mendukung, Entry Ideal (Dekat MA20)",
-    "info": "RS Alpha: 16.4% | Trans: 156.0B | Peluang: SEDANG | Entry~635 [IDEAL-DEKAT MA20] | SL 535 | TP 830 | RR 1:2.0 | ⚠️ FOREIGN NET SELL",
-    "timestamp": "23-06-2026 08:54:38"
-  },
-  {
-    "ticker": "HATM",
-    "full_symbol": "HATM.JK",
-    "fase": "FASE 2 - UPTREND",
-    "score": 70,
-    "alasan": "Bullish Structure, MA20 Slope Up, Leader Kuat vs IHSG, Smart Money Tail, Market Belum Mendukung, Entry Ideal (Dekat MA20)",
-    "info": "RS Alpha: 30.5% | Trans: 6.4B | Peluang: SEDANG | Entry~352 [IDEAL-DEKAT MA20] | SL 306 | TP 442 | RR 1:2.0",
-    "timestamp": "23-06-2026 08:54:38"
-  },
-  {
-    "ticker": "HRUM",
-    "full_symbol": "HRUM.JK",
-    "fase": "FASE 2 - UPTREND",
-    "score": 70,
-    "alasan": "Bullish Structure, MA20 Slope Up, Leader Kuat vs IHSG, Smart Money Tail, Market Belum Mendukung, Entry Ideal (Dekat MA20)",
-    "info": "RS Alpha: 22.3% | Trans: 13.6B | Peluang: SEDANG | Entry~840 [IDEAL-DEKAT MA20] | SL 730 | TP 1060 | RR 1:2.0",
-    "timestamp": "23-06-2026 08:54:38"
+    "info": "RS Alpha: 15.7% | Trans: 11.5B | Peluang: SEDANG | Entry~344 [IDEAL-DEKAT MA20] | SL 320 | TP 392 | RR 1:2.0",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
     "ticker": "MPMX",
@@ -239,53 +176,35 @@
     "fase": "FASE 2 - UPTREND",
     "score": 70,
     "alasan": "Bullish Structure, MA20 Slope Up, Leader Kuat vs IHSG, Smart Money Tail, Market Belum Mendukung, Entry Ideal (Dekat MA20)",
-    "info": "RS Alpha: 18.1% | Trans: 3.2B | Peluang: SEDANG | Entry~955 [IDEAL-DEKAT MA20] | SL 920 | TP 1025 | RR 1:2.0",
-    "timestamp": "23-06-2026 08:54:38"
+    "info": "RS Alpha: 18.7% | Trans: 5.1B | Peluang: SEDANG | Entry~960 [IDEAL-DEKAT MA20] | SL 925 | TP 1025 | RR 1:2.0",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
-    "ticker": "INCO",
-    "full_symbol": "INCO.JK",
+    "ticker": "RSCH",
+    "full_symbol": "RSCH.JK",
     "fase": "FASE 2 - UPTREND",
     "score": 70,
     "alasan": "Bullish Structure, MA20 Slope Up, Leader Kuat vs IHSG, Smart Money Tail, Market Belum Mendukung, Entry Ideal (Dekat MA20)",
-    "info": "RS Alpha: 16.7% | Trans: 88.4B | Peluang: SEDANG | Entry~5175 [IDEAL-DEKAT MA20] | SL 4520 | TP 6500 | RR 1:2.0",
-    "timestamp": "23-06-2026 08:54:38"
+    "info": "RS Alpha: 27.8% | Trans: 6.3B | Peluang: SEDANG | Entry~322 [IDEAL-DEKAT MA20] | SL 296 | TP 374 | RR 1:2.0",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
-    "ticker": "DSSA",
-    "full_symbol": "DSSA.JK",
+    "ticker": "TINS",
+    "full_symbol": "TINS.JK",
+    "fase": "FASE 3 - REVERSAL",
+    "score": 70,
+    "alasan": "Floor Support Maintained, Higher Low Terbentuk, OBV Accum Divergence, Inflow Turned Positive, Breached Above MA20, ⚠ Belum Ada Konfirmasi Volume, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
+    "info": "OBV Chg: 110.0% | MF: MONEY FLOW SANGAT KUAT | Peluang: SEDANG | Entry~3250 [TUNGGU KONFIRMASI VOLUME] | SL 3330 | TP 3520 | RR 1:2.0 | ✅ BANDAR AKUM AKTIF (40.2%) | ✅ FOREIGN BUY",
+    "timestamp": "24-06-2026 06:40:22"
+  },
+  {
+    "ticker": "ESIP",
+    "full_symbol": "ESIP.JK",
     "fase": "FASE 3 - REVERSAL",
     "score": 95,
     "alasan": "Floor Support Maintained, Higher Low Terbentuk, OBV Accum Divergence, Inflow Turned Positive, Breached Above MA20, Volume Konfirmasi Naik, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
-    "info": "OBV Chg: 99.7% | MF: MONEY FLOW SANGAT KUAT | Peluang: TINGGI | Entry~660 [KONFIRMASI HL+MA20] | SL 715 | TP 770 | RR 1:2.0 | ✅ BANDAR AKUM AKTIF (45.3%) | ✅ FOREIGN BUY",
-    "timestamp": "23-06-2026 08:54:38"
-  },
-  {
-    "ticker": "MSJA",
-    "full_symbol": "MSJA.JK",
-    "fase": "FASE 3 - REVERSAL",
-    "score": 95,
-    "alasan": "Floor Support Maintained, Higher Low Terbentuk, OBV Accum Divergence, Inflow Turned Positive, Breached Above MA20, Volume Konfirmasi Naik, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
-    "info": "OBV Chg: 12.2% | MF: MONEY FLOW KUAT | Peluang: TINGGI | Entry~412 [KONFIRMASI HL+MA20] | SL 394 | TP 448 | RR 1:2.0 | ✅ BANDAR AKUM AKTIF (39.0%) | ✅ FOREIGN BUY",
-    "timestamp": "23-06-2026 08:54:38"
-  },
-  {
-    "ticker": "YELO",
-    "full_symbol": "YELO.JK",
-    "fase": "FASE 3 - REVERSAL",
-    "score": 80,
-    "alasan": "Floor Support Maintained, OBV Accum Divergence, Inflow Turned Positive, Breached Above MA20, Volume Konfirmasi Naik, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
-    "info": "OBV Chg: 1.6% | MF: MONEY FLOW POSITIF | Peluang: TINGGI | Entry~74 [TUNGGU KONFIRMASI VOLUME] | SL 67 | TP 88 | RR 1:2.0 | ✅ BANDAR AKUM AKTIF (40.6%)",
-    "timestamp": "23-06-2026 08:54:38"
-  },
-  {
-    "ticker": "OMED",
-    "full_symbol": "OMED.JK",
-    "fase": "FASE 3 - REVERSAL",
-    "score": 95,
-    "alasan": "Floor Support Maintained, Higher Low Terbentuk, OBV Accum Divergence, Inflow Turned Positive, Breached Above MA20, Volume Konfirmasi Naik, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
-    "info": "OBV Chg: 142.3% | MF: MONEY FLOW SANGAT KUAT | Peluang: TINGGI | Entry~204 [KONFIRMASI HL+MA20] | SL 191 | TP 230 | RR 1:2.0 | ✅ FOREIGN BUY",
-    "timestamp": "23-06-2026 08:54:38"
+    "info": "OBV Chg: 12.7% | MF: MONEY FLOW SANGAT KUAT | Peluang: TINGGI | Entry~122 [KONFIRMASI HL+MA20] | SL 112 | TP 142 | RR 1:2.0 | ✅ FOREIGN BUY",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
     "ticker": "RGAS",
@@ -293,8 +212,17 @@
     "fase": "FASE 3 - REVERSAL",
     "score": 70,
     "alasan": "Floor Support Maintained, Higher Low Terbentuk, OBV Accum Divergence, Inflow Turned Positive, Breached Above MA20, ⚠ Belum Ada Konfirmasi Volume, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
-    "info": "OBV Chg: 22.6% | MF: MONEY FLOW KUAT | Peluang: SEDANG | Entry~127 [TUNGGU KONFIRMASI VOLUME] | SL 148 | TP 148 | RR 1:2.0 | ✅ FOREIGN BUY",
-    "timestamp": "23-06-2026 08:54:38"
+    "info": "OBV Chg: 8.9% | MF: MONEY FLOW KUAT | Peluang: SEDANG | Entry~131 [TUNGGU KONFIRMASI VOLUME] | SL 161 | TP 153 | RR 1:2.0 | ✅ FOREIGN BUY",
+    "timestamp": "24-06-2026 06:40:22"
+  },
+  {
+    "ticker": "BULL",
+    "full_symbol": "BULL.JK",
+    "fase": "FASE 3 - REVERSAL",
+    "score": 55,
+    "alasan": "Floor Support Maintained, OBV Accum Divergence, Inflow Turned Positive, Breached Above MA20, ⚠ Belum Ada Konfirmasi Volume, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
+    "info": "OBV Chg: 10.2% | MF: MONEY FLOW SANGAT KUAT | Peluang: SEDANG | Entry~364 [TUNGGU KONFIRMASI VOLUME] | SL 366 | TP 410 | RR 1:2.0 | ✅ FOREIGN BUY",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
     "ticker": "KEEN",
@@ -302,26 +230,53 @@
     "fase": "FASE 3 - REVERSAL",
     "score": 55,
     "alasan": "Floor Support Maintained, OBV Accum Divergence, Inflow Turned Positive, Breached Above MA20, ⚠ Belum Ada Konfirmasi Volume, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
-    "info": "OBV Chg: 71.6% | MF: MONEY FLOW POSITIF | Peluang: SEDANG | Entry~835 [TUNGGU KONFIRMASI VOLUME] | SL 825 | TP 875 | RR 1:2.0 | ✅ FOREIGN BUY",
-    "timestamp": "23-06-2026 08:54:38"
+    "info": "OBV Chg: 83.3% | MF: MONEY FLOW POSITIF | Peluang: SEDANG | Entry~835 [TUNGGU KONFIRMASI VOLUME] | SL 825 | TP 875 | RR 1:2.0 | ✅ FOREIGN BUY",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
-    "ticker": "DEWI",
-    "full_symbol": "DEWI.JK",
+    "ticker": "MYOR",
+    "full_symbol": "MYOR.JK",
+    "fase": "FASE 3 - REVERSAL",
+    "score": 55,
+    "alasan": "Floor Support Maintained, OBV Accum Divergence, Inflow Turned Positive, Breached Above MA20, ⚠ Belum Ada Konfirmasi Volume, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
+    "info": "OBV Chg: 27.7% | MF: MONEY FLOW KUAT | Peluang: SEDANG | Entry~1740 [TUNGGU KONFIRMASI VOLUME] | SL 1715 | TP 1835 | RR 1:2.0 | ✅ FOREIGN BUY | ⚠️ HATI-HATI MM MULAI DISTRI (-29.1%)",
+    "timestamp": "24-06-2026 06:40:22"
+  },
+  {
+    "ticker": "OMED",
+    "full_symbol": "OMED.JK",
+    "fase": "FASE 3 - REVERSAL",
+    "score": 55,
+    "alasan": "Floor Support Maintained, OBV Accum Divergence, Inflow Turned Positive, Breached Above MA20, ⚠ Belum Ada Konfirmasi Volume, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
+    "info": "OBV Chg: 59.2% | MF: MONEY FLOW SANGAT KUAT | Peluang: SEDANG | Entry~202 [TUNGGU KONFIRMASI VOLUME] | SL 195 | TP 216 | RR 1:2.0 | ✅ FOREIGN BUY",
+    "timestamp": "24-06-2026 06:40:22"
+  },
+  {
+    "ticker": "STAA",
+    "full_symbol": "STAA.JK",
+    "fase": "FASE 3 - REVERSAL",
+    "score": 55,
+    "alasan": "Floor Support Maintained, OBV Accum Divergence, Inflow Turned Positive, Breached Above MA20, ⚠ Belum Ada Konfirmasi Volume, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
+    "info": "OBV Chg: 80.2% | MF: MONEY FLOW POSITIF | Peluang: SEDANG | Entry~955 [TUNGGU KONFIRMASI VOLUME] | SL 970 | TP 1000 | RR 1:2.0 | ✅ FOREIGN BUY",
+    "timestamp": "24-06-2026 06:40:22"
+  },
+  {
+    "ticker": "NSSS",
+    "full_symbol": "NSSS.JK",
     "fase": "FASE 3 - REVERSAL",
     "score": 95,
     "alasan": "Floor Support Maintained, Higher Low Terbentuk, OBV Accum Divergence, Inflow Turned Positive, Breached Above MA20, Volume Konfirmasi Naik, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
-    "info": "OBV Chg: 35.8% | MF: MONEY FLOW SANGAT KUAT | Peluang: TINGGI | Entry~119 [KONFIRMASI HL+MA20] | SL 114 | TP 129 | RR 1:2.0",
-    "timestamp": "23-06-2026 08:54:38"
+    "info": "OBV Chg: 26.9% | MF: MONEY FLOW KUAT | Peluang: TINGGI | Entry~468 [KONFIRMASI HL+MA20] | SL 488 | TP 530 | RR 1:2.0 | ⚠️ FOREIGN NET SELL",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
-    "ticker": "DATA",
-    "full_symbol": "DATA.JK",
+    "ticker": "HATM",
+    "full_symbol": "HATM.JK",
     "fase": "FASE 3 - REVERSAL",
     "score": 80,
-    "alasan": "Floor Support Maintained, Higher Low Terbentuk, OBV Accum Divergence, Breached Above MA20, Volume Konfirmasi Naik, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
-    "info": "OBV Chg: 59.8% | MF: MONEY FLOW NEGATIF | Peluang: TINGGI | Entry~1655 [KONFIRMASI HL+MA20] | SL 1660 | TP 1885 | RR 1:2.0",
-    "timestamp": "23-06-2026 08:54:38"
+    "alasan": "Floor Support Maintained, OBV Accum Divergence, Inflow Turned Positive, Breached Above MA20, Volume Konfirmasi Naik, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
+    "info": "OBV Chg: 14.4% | MF: MONEY FLOW SANGAT KUAT | Peluang: TINGGI | Entry~328 [TUNGGU KONFIRMASI VOLUME] | SL 306 | TP 372 | RR 1:2.0",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
     "ticker": "KIOS",
@@ -329,116 +284,107 @@
     "fase": "FASE 3 - REVERSAL",
     "score": 80,
     "alasan": "Floor Support Maintained, OBV Accum Divergence, Inflow Turned Positive, Breached Above MA20, Volume Konfirmasi Naik, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
-    "info": "OBV Chg: 10.3% | MF: MONEY FLOW SANGAT KUAT | Peluang: TINGGI | Entry~82 [TUNGGU KONFIRMASI VOLUME] | SL 82 | TP 96 | RR 1:2.0",
-    "timestamp": "23-06-2026 08:54:38"
+    "info": "OBV Chg: 8.6% | MF: MONEY FLOW SANGAT KUAT | Peluang: TINGGI | Entry~83 [TUNGGU KONFIRMASI VOLUME] | SL 82 | TP 98 | RR 1:2.0",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
-    "ticker": "MAPI",
-    "full_symbol": "MAPI.JK",
-    "fase": "FASE 3 - REVERSAL",
-    "score": 80,
-    "alasan": "Floor Support Maintained, Higher Low Terbentuk, OBV Accum Divergence, Breached Above MA20, Volume Konfirmasi Naik, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
-    "info": "OBV Chg: 170.5% | MF: MONEY FLOW NEGATIF | Peluang: TINGGI | Entry~1505 [KONFIRMASI HL+MA20] | SL 1465 | TP 1585 | RR 1:2.0 | ⚠️ FOREIGN NET SELL",
-    "timestamp": "23-06-2026 08:54:38"
-  },
-  {
-    "ticker": "NICL",
-    "full_symbol": "NICL.JK",
+    "ticker": "BUVA",
+    "full_symbol": "BUVA.JK",
     "fase": "FASE 3 - REVERSAL",
     "score": 80,
     "alasan": "Floor Support Maintained, OBV Accum Divergence, Inflow Turned Positive, Breached Above MA20, Volume Konfirmasi Naik, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
-    "info": "OBV Chg: 4.3% | MF: MONEY FLOW POSITIF | Peluang: TINGGI | Entry~560 [TUNGGU KONFIRMASI VOLUME] | SL 545 | TP 630 | RR 1:2.0",
-    "timestamp": "23-06-2026 08:54:38"
+    "info": "OBV Chg: 10.4% | MF: MONEY FLOW SANGAT KUAT | Peluang: TINGGI | Entry~745 [TUNGGU KONFIRMASI VOLUME] | SL 795 | TP 855 | RR 1:2.0",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
-    "ticker": "NSSS",
-    "full_symbol": "NSSS.JK",
-    "fase": "FASE 3 - REVERSAL",
-    "score": 80,
-    "alasan": "Floor Support Maintained, OBV Accum Divergence, Inflow Turned Positive, Breached Above MA20, Volume Konfirmasi Naik, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
-    "info": "OBV Chg: 47.0% | MF: MONEY FLOW KUAT | Peluang: TINGGI | Entry~466 [TUNGGU KONFIRMASI VOLUME] | SL 436 | TP 530 | RR 1:2.0 | ⚠️ FOREIGN NET SELL",
-    "timestamp": "23-06-2026 08:54:38"
-  },
-  {
-    "ticker": "BEEF",
-    "full_symbol": "BEEF.JK",
-    "fase": "FASE 3 - REVERSAL",
-    "score": 80,
-    "alasan": "Floor Support Maintained, OBV Accum Divergence, Inflow Turned Positive, Breached Above MA20, Volume Konfirmasi Naik, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
-    "info": "OBV Chg: 15.5% | MF: MONEY FLOW KUAT | Peluang: TINGGI | Entry~158 [TUNGGU KONFIRMASI VOLUME] | SL 144 | TP 186 | RR 1:2.0",
-    "timestamp": "23-06-2026 08:54:38"
-  },
-  {
-    "ticker": "PIPA",
-    "full_symbol": "PIPA.JK",
-    "fase": "FASE 3 - REVERSAL",
-    "score": 80,
-    "alasan": "Floor Support Maintained, Higher Low Terbentuk, OBV Accum Divergence, Breached Above MA20, Volume Konfirmasi Naik, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
-    "info": "OBV Chg: 11.4% | MF: MONEY FLOW NEGATIF | Peluang: TINGGI | Entry~115 [KONFIRMASI HL+MA20] | SL 106 | TP 133 | RR 1:2.0",
-    "timestamp": "23-06-2026 08:54:38"
-  },
-  {
-    "ticker": "IATA",
-    "full_symbol": "IATA.JK",
+    "ticker": "GPSO",
+    "full_symbol": "GPSO.JK",
     "fase": "FASE 3 - REVERSAL",
     "score": 70,
     "alasan": "Floor Support Maintained, Higher Low Terbentuk, OBV Accum Divergence, Inflow Turned Positive, Breached Above MA20, ⚠ Belum Ada Konfirmasi Volume, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
-    "info": "OBV Chg: 10.0% | MF: MONEY FLOW SANGAT KUAT | Peluang: SEDANG | Entry~66 [TUNGGU KONFIRMASI VOLUME] | SL 60 | TP 78 | RR 1:2.0",
-    "timestamp": "23-06-2026 08:54:38"
+    "info": "OBV Chg: 77.0% | MF: MONEY FLOW SANGAT KUAT | Peluang: SEDANG | Entry~436 [TUNGGU KONFIRMASI VOLUME] | SL 406 | TP 496 | RR 1:2.0",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
-    "ticker": "RSCH",
-    "full_symbol": "RSCH.JK",
-    "fase": "FASE 3 - REVERSAL",
-    "score": 70,
-    "alasan": "Floor Support Maintained, Higher Low Terbentuk, OBV Accum Divergence, Inflow Turned Positive, Breached Above MA20, ⚠ Belum Ada Konfirmasi Volume, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
-    "info": "OBV Chg: 35.7% | MF: MONEY FLOW KUAT | Peluang: SEDANG | Entry~292 [TUNGGU KONFIRMASI VOLUME] | SL 306 | TP 310 | RR 1:2.0",
-    "timestamp": "23-06-2026 08:54:38"
-  },
-  {
-    "ticker": "ACES",
-    "full_symbol": "ACES.JK",
+    "ticker": "FIRE",
+    "full_symbol": "FIRE.JK",
     "fase": "FASE 3 - REVERSAL",
     "score": 65,
     "alasan": "Floor Support Maintained, OBV Accum Divergence, Breached Above MA20, Volume Konfirmasi Naik, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
-    "info": "OBV Chg: 272.7% | MF: MONEY FLOW NEGATIF | Peluang: SEDANG | Entry~322 [TUNGGU KONFIRMASI VOLUME] | SL 324 | TP 336 | RR 1:2.0 | ⚠️ HATI-HATI MM MULAI DISTRI (-24.5%)",
-    "timestamp": "23-06-2026 08:54:38"
+    "info": "OBV Chg: 2.6% | MF: MONEY FLOW NEGATIF | Peluang: SEDANG | Entry~105 [TUNGGU KONFIRMASI VOLUME] | SL 99 | TP 117 | RR 1:2.0",
+    "timestamp": "24-06-2026 06:40:22"
+  },
+  {
+    "ticker": "KOCI",
+    "full_symbol": "KOCI.JK",
+    "fase": "FASE 3 - REVERSAL",
+    "score": 65,
+    "alasan": "Floor Support Maintained, OBV Accum Divergence, Breached Above MA20, Volume Konfirmasi Naik, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
+    "info": "OBV Chg: 166.4% | MF: MONEY FLOW NEGATIF | Peluang: SEDANG | Entry~91 [TUNGGU KONFIRMASI VOLUME] | SL 85 | TP 104 | RR 1:2.0",
+    "timestamp": "24-06-2026 06:40:22"
+  },
+  {
+    "ticker": "PPRE",
+    "full_symbol": "PPRE.JK",
+    "fase": "FASE 3 - REVERSAL",
+    "score": 65,
+    "alasan": "Floor Support Maintained, OBV Accum Divergence, Breached Above MA20, Volume Konfirmasi Naik, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
+    "info": "OBV Chg: 26.8% | MF: MONEY FLOW NEGATIF | Peluang: SEDANG | Entry~95 [TUNGGU KONFIRMASI VOLUME] | SL 91 | TP 108 | RR 1:2.0",
+    "timestamp": "24-06-2026 06:40:22"
+  },
+  {
+    "ticker": "TOTL",
+    "full_symbol": "TOTL.JK",
+    "fase": "FASE 3 - REVERSAL",
+    "score": 65,
+    "alasan": "Floor Support Maintained, OBV Accum Divergence, Breached Above MA20, Volume Konfirmasi Naik, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
+    "info": "OBV Chg: 2.9% | MF: MONEY FLOW NEGATIF | Peluang: SEDANG | Entry~1055 [TUNGGU KONFIRMASI VOLUME] | SL 1050 | TP 1090 | RR 1:2.0",
+    "timestamp": "24-06-2026 06:40:22"
+  },
+  {
+    "ticker": "AKRA",
+    "full_symbol": "AKRA.JK",
+    "fase": "FASE 3 - REVERSAL",
+    "score": 55,
+    "alasan": "Floor Support Maintained, OBV Accum Divergence, Inflow Turned Positive, Breached Above MA20, ⚠ Belum Ada Konfirmasi Volume, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
+    "info": "OBV Chg: 26.4% | MF: MONEY FLOW POSITIF | Peluang: SEDANG | Entry~1255 [TUNGGU KONFIRMASI VOLUME] | SL 1185 | TP 1395 | RR 1:2.0 | ⚠️ FOREIGN NET SELL",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
     "ticker": "BWPT",
     "full_symbol": "BWPT.JK",
     "fase": "FASE 3 - REVERSAL",
-    "score": 65,
-    "alasan": "Floor Support Maintained, OBV Accum Divergence, Breached Above MA20, Volume Konfirmasi Naik, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
-    "info": "OBV Chg: 28.8% | MF: MONEY FLOW NEGATIF | Peluang: SEDANG | Entry~79 [TUNGGU KONFIRMASI VOLUME] | SL 74 | TP 89 | RR 1:2.0 | ⚠️ FOREIGN NET SELL",
-    "timestamp": "23-06-2026 08:54:38"
+    "score": 55,
+    "alasan": "Floor Support Maintained, OBV Accum Divergence, Inflow Turned Positive, Breached Above MA20, ⚠ Belum Ada Konfirmasi Volume, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
+    "info": "OBV Chg: 3.0% | MF: MONEY FLOW KUAT | Peluang: SEDANG | Entry~78 [TUNGGU KONFIRMASI VOLUME] | SL 74 | TP 86 | RR 1:2.0 | ⚠️ FOREIGN NET SELL",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
-    "ticker": "JATI",
-    "full_symbol": "JATI.JK",
+    "ticker": "HRUM",
+    "full_symbol": "HRUM.JK",
     "fase": "FASE 3 - REVERSAL",
-    "score": 65,
-    "alasan": "Floor Support Maintained, OBV Accum Divergence, Breached Above MA20, Volume Konfirmasi Naik, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
-    "info": "OBV Chg: 8.3% | MF: MONEY FLOW NEGATIF | Peluang: SEDANG | Entry~98 [TUNGGU KONFIRMASI VOLUME] | SL 89 | TP 116 | RR 1:2.0",
-    "timestamp": "23-06-2026 08:54:38"
+    "score": 55,
+    "alasan": "Floor Support Maintained, Higher Low Terbentuk, OBV Accum Divergence, Breached Above MA20, ⚠ Belum Ada Konfirmasi Volume, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
+    "info": "OBV Chg: 127.5% | MF: MONEY FLOW NEGATIF | Peluang: SEDANG | Entry~780 [TUNGGU KONFIRMASI VOLUME] | SL 775 | TP 855 | RR 1:2.0",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
-    "ticker": "OILS",
-    "full_symbol": "OILS.JK",
-    "fase": "FASE 3 - REVERSAL",
-    "score": 65,
-    "alasan": "Floor Support Maintained, OBV Accum Divergence, Breached Above MA20, Volume Konfirmasi Naik, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
-    "info": "OBV Chg: 4.7% | MF: MONEY FLOW NEGATIF | Peluang: SEDANG | Entry~185 [TUNGGU KONFIRMASI VOLUME] | SL 185 | TP 210 | RR 1:2.0",
-    "timestamp": "23-06-2026 08:54:38"
-  },
-  {
-    "ticker": "DEFI",
-    "full_symbol": "DEFI.JK",
+    "ticker": "IATA",
+    "full_symbol": "IATA.JK",
     "fase": "FASE 3 - REVERSAL",
     "score": 55,
     "alasan": "Floor Support Maintained, OBV Accum Divergence, Inflow Turned Positive, Breached Above MA20, ⚠ Belum Ada Konfirmasi Volume, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
-    "info": "OBV Chg: 4.4% | MF: MONEY FLOW SANGAT KUAT | Peluang: SEDANG | Entry~122 [TUNGGU KONFIRMASI VOLUME] | SL 106 | TP 154 | RR 1:2.0",
-    "timestamp": "23-06-2026 08:54:38"
+    "info": "OBV Chg: 0.2% | MF: MONEY FLOW KUAT | Peluang: SEDANG | Entry~66 [TUNGGU KONFIRMASI VOLUME] | SL 60 | TP 78 | RR 1:2.0",
+    "timestamp": "24-06-2026 06:40:22"
+  },
+  {
+    "ticker": "MAPI",
+    "full_symbol": "MAPI.JK",
+    "fase": "FASE 3 - REVERSAL",
+    "score": 55,
+    "alasan": "Floor Support Maintained, OBV Accum Divergence, Inflow Turned Positive, Breached Above MA20, ⚠ Belum Ada Konfirmasi Volume, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
+    "info": "OBV Chg: 815.7% | MF: MONEY FLOW SANGAT KUAT | Peluang: SEDANG | Entry~1505 [TUNGGU KONFIRMASI VOLUME] | SL 1475 | TP 1565 | RR 1:2.0 | ⚠️ FOREIGN NET SELL",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
     "ticker": "MIKA",
@@ -446,25 +392,43 @@
     "fase": "FASE 3 - REVERSAL",
     "score": 55,
     "alasan": "Floor Support Maintained, Higher Low Terbentuk, OBV Accum Divergence, Breached Above MA20, ⚠ Belum Ada Konfirmasi Volume, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
-    "info": "OBV Chg: 37.4% | MF: MONEY FLOW NEGATIF | Peluang: SEDANG | Entry~1560 [TUNGGU KONFIRMASI VOLUME] | SL 1475 | TP 1730 | RR 1:2.0 | ⚠️ FOREIGN NET SELL",
-    "timestamp": "23-06-2026 08:54:38"
+    "info": "OBV Chg: 38.8% | MF: MONEY FLOW NEGATIF | Peluang: SEDANG | Entry~1555 [TUNGGU KONFIRMASI VOLUME] | SL 1500 | TP 1665 | RR 1:2.0 | ⚠️ FOREIGN NET SELL",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
-    "ticker": "SIMP",
-    "full_symbol": "SIMP.JK",
+    "ticker": "NEST",
+    "full_symbol": "NEST.JK",
     "fase": "FASE 3 - REVERSAL",
     "score": 55,
-    "alasan": "Floor Support Maintained, Higher Low Terbentuk, OBV Accum Divergence, Breached Above MA20, ⚠ Belum Ada Konfirmasi Volume, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
-    "info": "OBV Chg: 410.1% | MF: MONEY FLOW NEGATIF | Peluang: SEDANG | Entry~545 [TUNGGU KONFIRMASI VOLUME] | SL 530 | TP 575 | RR 1:2.0",
-    "timestamp": "23-06-2026 08:54:38"
+    "alasan": "Floor Support Maintained, Inflow Turned Positive, Breached Above MA20, Volume Konfirmasi Naik, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
+    "info": "OBV Chg: -0.4% | MF: MONEY FLOW POSITIF | Peluang: SEDANG | Entry~535 [TUNGGU KONFIRMASI VOLUME] | SL 555 | TP 565 | RR 1:2.0",
+    "timestamp": "24-06-2026 06:40:22"
+  },
+  {
+    "ticker": "NICL",
+    "full_symbol": "NICL.JK",
+    "fase": "FASE 3 - REVERSAL",
+    "score": 55,
+    "alasan": "Floor Support Maintained, Inflow Turned Positive, Breached Above MA20, Volume Konfirmasi Naik, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
+    "info": "OBV Chg: -8.0% | MF: MONEY FLOW KUAT | Peluang: SEDANG | Entry~560 [TUNGGU KONFIRMASI VOLUME] | SL 530 | TP 625 | RR 1:2.0",
+    "timestamp": "24-06-2026 06:40:22"
   },
   {
     "ticker": "PGEO",
     "full_symbol": "PGEO.JK",
     "fase": "FASE 3 - REVERSAL",
     "score": 55,
+    "alasan": "Floor Support Maintained, OBV Accum Divergence, Inflow Turned Positive, Breached Above MA20, ⚠ Belum Ada Konfirmasi Volume, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
+    "info": "OBV Chg: 16.1% | MF: MONEY FLOW POSITIF | Peluang: SEDANG | Entry~875 [TUNGGU KONFIRMASI VOLUME] | SL 865 | TP 925 | RR 1:2.0",
+    "timestamp": "24-06-2026 06:40:22"
+  },
+  {
+    "ticker": "PIPA",
+    "full_symbol": "PIPA.JK",
+    "fase": "FASE 3 - REVERSAL",
+    "score": 55,
     "alasan": "Floor Support Maintained, Higher Low Terbentuk, OBV Accum Divergence, Breached Above MA20, ⚠ Belum Ada Konfirmasi Volume, Tidak Ada Distribusi Institusi, ⚠ Market Masih Downtrend",
-    "info": "OBV Chg: 31.9% | MF: MONEY FLOW NEGATIF | Peluang: SEDANG | Entry~880 [TUNGGU KONFIRMASI VOLUME] | SL 865 | TP 930 | RR 1:2.0",
-    "timestamp": "23-06-2026 08:54:38"
+    "info": "OBV Chg: 12.9% | MF: MONEY FLOW NEGATIF | Peluang: SEDANG | Entry~115 [TUNGGU KONFIRMASI VOLUME] | SL 106 | TP 133 | RR 1:2.0",
+    "timestamp": "24-06-2026 06:40:22"
   }
 ]
