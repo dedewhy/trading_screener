@@ -1,264 +1,300 @@
 [
   {
-    "ticker": "ACES",
-    "full_symbol": "ACES.JK",
+    "ticker": "TAPG",
+    "full_symbol": "TAPG.JK",
     "fase": "FASE 1 - SIDEWAYS",
-    "score": 90,
-    "alasan": "Sideways 15H, V-DryUp Kuat, Di Atas MA20, MA20 Naik, Tidak Low Baru, VCP Kuat, ⚠ Market Belum Mendukung, Leader Kuat vs IHSG | TIER 6 - HATI-HATI (AKUM/F_BUY)",
-    "info": "Saran: Nunggu Breakout | Entry: 350 | SL: 334 | TP: 382 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW KUAT | Close: 348.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "score": 95,
+    "alasan": "Sideways 15H, DryUp, Di Atas MA20, MA20 Naik, Tidak Low Baru, VCP Kuat, Dekat Resistance, Market Mendukung | TIER 6 - HATI-HATI (AKUM/F_BUY)",
+    "info": "Saran: Nunggu Breakout | Entry: 1605 | SL: 1520 | TP: 1775 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW NEGATIF | Close: 1540.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
-    "ticker": "ADRO",
-    "full_symbol": "ADRO.JK",
+    "ticker": "AYAM",
+    "full_symbol": "AYAM.JK",
     "fase": "FASE 1 - SIDEWAYS",
-    "score": 90,
-    "alasan": "Sideways Ketat 15H, V-DryUp Kuat, Di Atas MA20, MA20 Naik, Tidak Low Baru, VCP Kuat, ⚠ Market Belum Mendukung | TIER 6 - HATI-HATI (AKUM/F_BUY)",
-    "info": "Saran: Nunggu Breakout | Entry: 2370 | SL: 2270 | TP: 2560 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW SANGAT KUAT | Close: 2350.0",
-    "timestamp": "08-07-2026 07:14:23"
-  },
-  {
-    "ticker": "INDF",
-    "full_symbol": "INDF.JK",
-    "fase": "FASE 1 - SIDEWAYS",
-    "score": 85,
-    "alasan": "Sideways Ketat 15H, DryUp, Di Atas MA20, MA20 Naik, Tidak Low Baru, VCP Kuat, ⚠ Market Belum Mendukung, Outperform IHSG | TIER 6 - HATI-HATI (Netral/F_BUY)",
-    "info": "Saran: Nunggu Breakout | Entry: 6725 | SL: 6525 | TP: 7100 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW KUAT | Close: 6675.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "score": 75,
+    "alasan": "Sideways 15H, DryUp, Di Atas MA20, MA20 Naik, Tidak Low Baru, VCP Kuat, Dekat Resistance, Market Mendukung, ⚠ Distribusi Tersembunyi | TIER 6 - HATI-HATI (AKUM/F_BUY)",
+    "info": "Saran: Nunggu Breakout | Entry: 362 | SL: 342 | TP: 402 | RR: 1:2.0 | Peluang: SEDANG | MF: MONEY FLOW KUAT | Close: 350.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "ASII",
     "full_symbol": "ASII.JK",
     "fase": "FASE 1 - SIDEWAYS",
-    "score": 85,
-    "alasan": "Sideways 15H, V-DryUp Kuat, Di Atas MA20, MA20 Naik, Tidak Low Baru, ⚠ Market Belum Mendukung, Outperform IHSG | TIER 5 - NETRAL (Netral/Netral)",
-    "info": "Saran: Nunggu Breakout | Entry: 5025 | SL: 4760 | TP: 5550 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW SANGAT KUAT | Close: 4930.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "score": 110,
+    "alasan": "Sideways 15H, V-DryUp Kuat, Di Atas MA20, MA20 Naik, Tidak Low Baru, Market Mendukung, No Supply | TIER 5 - NETRAL (Netral/Netral)",
+    "info": "Saran: Nunggu Breakout | Entry: 5025 | SL: 4770 | TP: 5550 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW NEGATIF | Close: 4890.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
-    "ticker": "YELO",
-    "full_symbol": "YELO.JK",
+    "ticker": "HOPE",
+    "full_symbol": "HOPE.JK",
     "fase": "FASE 2 - UPTREND",
     "score": 115,
-    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), Outperform IHSG, Tidak Low Baru, Higher Low, ⚠ Market Belum Mendukung | TIER 1 - PALING IDEAL (AKUM/F_BUY)",
-    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 72 | SL: 62 | TP: 91 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW POSITIF | Close: 72.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "alasan": "Bullish Structure, MA20 Slope Up, ⚠ Agak Jauh MA20 (Tunggu Pullback), ⚠ Underperform IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, Market Mendukung | TIER 1 - PALING IDEAL (AKUM/F_BUY)",
+    "info": "Saran: Nunggu Pullback | Entry: 125 | SL: 101 | TP: 172 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW POSITIF | Close: 143.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "BAIK",
     "full_symbol": "BAIK.JK",
     "fase": "FASE 2 - UPTREND",
-    "score": 80,
-    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), Leader Kuat vs IHSG, Tidak Low Baru, Higher Low, ⚠ Market Belum Mendukung | TIER 6 - HATI-HATI (AKUM/F_BUY)",
-    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 650 | SL: 565 | TP: 815 | RR: 1:2.0 | Peluang: SEDANG | MF: MONEY FLOW KUAT | Close: 650.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "score": 90,
+    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), Leader Kuat vs IHSG, Tidak Low Baru, Market Mendukung, ⚠ Rally Lemah, Waspada Koreksi | TIER 6 - HATI-HATI (AKUM/F_BUY)",
+    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 660 | SL: 580 | TP: 820 | RR: 1:2.0 | Peluang: SEDANG | MF: MONEY FLOW POSITIF | Close: 660.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
-    "ticker": "SMGR",
-    "full_symbol": "SMGR.JK",
+    "ticker": "ASGR",
+    "full_symbol": "ASGR.JK",
     "fase": "FASE 2 - UPTREND",
-    "score": 75,
-    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), ⚠ Underperform IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, ⚠ Market Belum Mendukung | TIER 6 - HATI-HATI (AKUM/F_BUY)",
-    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 1520 | SL: 1405 | TP: 1750 | RR: 1:2.0 | Peluang: SEDANG | MF: MONEY FLOW POSITIF | Close: 1520.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "score": 140,
+    "alasan": "Bullish Structure, MA20 Slope Up, ⚠ Agak Jauh MA20 (Tunggu Pullback), Outperform IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, Market Mendukung | TIER 1 - PALING IDEAL (AKUM/F_BUY)",
+    "info": "Saran: Nunggu Pullback | Entry: 1540 | SL: 1455 | TP: 1710 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW KUAT | Close: 1745.0",
+    "timestamp": "09-07-2026 06:56:55"
+  },
+  {
+    "ticker": "DATA",
+    "full_symbol": "DATA.JK",
+    "fase": "FASE 2 - UPTREND",
+    "score": 90,
+    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), Leader Kuat vs IHSG, Tidak Low Baru, Market Mendukung | TIER 6 - HATI-HATI (AKUM/F_BUY)",
+    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 2080 | SL: 1830 | TP: 2580 | RR: 1:2.0 | Peluang: SEDANG | MF: MONEY FLOW NEGATIF | Close: 2080.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "MARK",
     "full_symbol": "MARK.JK",
     "fase": "FASE 2 - UPTREND",
-    "score": 110,
-    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), Leader Kuat vs IHSG, Tidak Low Baru, ⚠ Market Belum Mendukung, ⚠ Rally Lemah, Waspada Koreksi | TIER 1 - PALING IDEAL (AKUM/F_BUY)",
-    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 995 | SL: 930 | TP: 1125 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW SANGAT KUAT | Close: 995.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "score": 150,
+    "alasan": "Bullish Structure, MA20 Slope Up, ⚠ Agak Jauh MA20 (Tunggu Pullback), Leader Kuat vs IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, Market Mendukung | TIER 1 - PALING IDEAL (AKUM/F_BUY)",
+    "info": "Saran: Nunggu Pullback | Entry: 940 | SL: 885 | TP: 1050 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW SANGAT KUAT | Close: 1025.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
-    "ticker": "BELL",
-    "full_symbol": "BELL.JK",
+    "ticker": "DEWI",
+    "full_symbol": "DEWI.JK",
     "fase": "FASE 2 - UPTREND",
-    "score": 80,
-    "alasan": "Bullish Structure, MA20 Slope Up, ⚠ Agak Jauh MA20 (Tunggu Pullback), Leader Kuat vs IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, ⚠ Market Belum Mendukung | TIER 6 - HATI-HATI (AKUM/F_BUY)",
-    "info": "Saran: Nunggu Pullback | Entry: 99 | SL: 81 | TP: 134 | RR: 1:2.0 | Peluang: SEDANG | MF: MONEY FLOW KUAT | Close: 114.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "score": 85,
+    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), ⚠ Underperform IHSG, Mark-Up Volume Boost, Tidak Low Baru, Market Mendukung | TIER 6 - HATI-HATI (AKUM/F_BUY)",
+    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 119 | SL: 112 | TP: 133 | RR: 1:2.0 | Peluang: SEDANG | MF: MONEY FLOW SANGAT KUAT | Close: 119.0",
+    "timestamp": "09-07-2026 06:56:55"
+  },
+  {
+    "ticker": "SMIL",
+    "full_symbol": "SMIL.JK",
+    "fase": "FASE 2 - UPTREND",
+    "score": 95,
+    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), Outperform IHSG, Tidak Low Baru, Higher Low, Market Mendukung | TIER 6 - HATI-HATI (AKUM/F_BUY)",
+    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 292 | SL: 266 | TP: 344 | RR: 1:2.0 | Peluang: SEDANG | MF: MONEY FLOW KUAT | Close: 292.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "HATM",
     "full_symbol": "HATM.JK",
     "fase": "FASE 2 - UPTREND",
-    "score": 110,
-    "alasan": "Bullish Structure, MA20 Slope Up, ⚠ Jauh Dari MA20 - Tunggu Pullback, Leader Kuat vs IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, ⚠ Market Belum Mendukung | TIER 1 - PALING IDEAL (AKUM/F_BUY)",
-    "info": "Saran: Nunggu Koreksi | Entry: 366 | SL: 324 | TP: 450 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW SANGAT KUAT | Close: 434.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "score": 135,
+    "alasan": "Bullish Structure, MA20 Slope Up, ⚠ Jauh Dari MA20 - Tunggu Pullback, Leader Kuat vs IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, Market Mendukung | TIER 1 - PALING IDEAL (AKUM/F_BUY)",
+    "info": "Saran: Nunggu Koreksi | Entry: 372 | SL: 330 | TP: 456 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW SANGAT KUAT | Close: 450.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
-    "ticker": "KAQI",
-    "full_symbol": "KAQI.JK",
+    "ticker": "PRIM",
+    "full_symbol": "PRIM.JK",
     "fase": "FASE 2 - UPTREND",
-    "score": 120,
-    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), ⚠ Underperform IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, ⚠ Market Belum Mendukung | TIER 1 - PALING IDEAL (AKUM/F_BUY)",
-    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 87 | SL: 78 | TP: 104 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW POSITIF | Close: 87.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "score": 150,
+    "alasan": "Bullish Structure, MA20 Slope Up, ⚠ Agak Jauh MA20 (Tunggu Pullback), Leader Kuat vs IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, Market Mendukung | TIER 1 - PALING IDEAL (AKUM/F_BUY)",
+    "info": "Saran: Nunggu Pullback | Entry: 88 | SL: 81 | TP: 102 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW POSITIF | Close: 97.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
-    "ticker": "ESIP",
-    "full_symbol": "ESIP.JK",
-    "fase": "FASE 2 - UPTREND",
-    "score": 115,
-    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), Leader Kuat vs IHSG, Tidak Low Baru, Higher Low, ⚠ Market Belum Mendukung | TIER 2 - SANGAT BAGUS (AKUM/F_BUY)",
-    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 135 | SL: 114 | TP: 177 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW POSITIF | Close: 135.0",
-    "timestamp": "08-07-2026 07:14:23"
-  },
-  {
-    "ticker": "KOTA",
-    "full_symbol": "KOTA.JK",
-    "fase": "FASE 2 - UPTREND",
-    "score": 95,
-    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), Leader Kuat vs IHSG, Mark-Up Volume Boost, Tidak Low Baru, ⚠ Market Belum Mendukung | TIER 6 - HATI-HATI (AKUM/F_BUY)",
-    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 100 | SL: 84 | TP: 131 | RR: 1:2.0 | Peluang: SEDANG | MF: MONEY FLOW SANGAT KUAT | Close: 100.0",
-    "timestamp": "08-07-2026 07:14:23"
-  },
-  {
-    "ticker": "KPIG",
-    "full_symbol": "KPIG.JK",
-    "fase": "FASE 2 - UPTREND",
-    "score": 75,
-    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), ⚠ Underperform IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, ⚠ Market Belum Mendukung | TIER 6 - HATI-HATI (AKUM/F_BUY)",
-    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 83 | SL: 74 | TP: 101 | RR: 1:2.0 | Peluang: SEDANG | MF: MONEY FLOW SANGAT KUAT | Close: 83.0",
-    "timestamp": "08-07-2026 07:14:23"
-  },
-  {
-    "ticker": "KUAS",
-    "full_symbol": "KUAS.JK",
-    "fase": "FASE 2 - UPTREND",
-    "score": 125,
-    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), Outperform IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, ⚠ Market Belum Mendukung, ⚠ Rally Lemah, Waspada Koreksi | TIER 3 - BAGUS (AKUM/Netral)",
-    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 92 | SL: 80 | TP: 115 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW NEGATIF | Close: 92.0",
-    "timestamp": "08-07-2026 07:14:23"
-  },
-  {
-    "ticker": "PTPP",
-    "full_symbol": "PTPP.JK",
-    "fase": "FASE 2 - UPTREND",
-    "score": 110,
-    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), Outperform IHSG, Mark-Up Volume Boost, Tidak Low Baru, ⚠ Market Belum Mendukung | TIER 3 - BAGUS (Netral/F_BUY)",
-    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 198 | SL: 184 | TP: 226 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW POSITIF | Close: 198.0",
-    "timestamp": "08-07-2026 07:14:23"
-  },
-  {
-    "ticker": "INTP",
-    "full_symbol": "INTP.JK",
+    "ticker": "MSJA",
+    "full_symbol": "MSJA.JK",
     "fase": "FASE 2 - UPTREND",
     "score": 100,
-    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), Outperform IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, ⚠ Market Belum Mendukung | TIER 6 - HATI-HATI (Netral/F_BUY)",
-    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 4500 | SL: 4270 | TP: 4960 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW KUAT | Close: 4500.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), ⚠ Underperform IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, Market Mendukung, ⚠ Rally Lemah, Waspada Koreksi | TIER 6 - HATI-HATI (AKUM/F_BUY)",
+    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 420 | SL: 386 | TP: 486 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW KUAT | Close: 420.0",
+    "timestamp": "09-07-2026 06:56:55"
+  },
+  {
+    "ticker": "DSFI",
+    "full_symbol": "DSFI.JK",
+    "fase": "FASE 2 - UPTREND",
+    "score": 125,
+    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), ⚠ Underperform IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, Market Mendukung, ⚠ Rally Lemah, Waspada Koreksi | TIER 3 - BAGUS (AKUM/Netral)",
+    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 71 | SL: 61 | TP: 90 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW NEGATIF | Close: 71.0",
+    "timestamp": "09-07-2026 06:56:55"
+  },
+  {
+    "ticker": "KIOS",
+    "full_symbol": "KIOS.JK",
+    "fase": "FASE 2 - UPTREND",
+    "score": 135,
+    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), Leader Kuat vs IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, Market Mendukung, ⚠ Rally Lemah, Waspada Koreksi | TIER 6 - HATI-HATI (AKUM/Netral)",
+    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 90 | SL: 74 | TP: 122 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW NEGATIF | Close: 90.0",
+    "timestamp": "09-07-2026 06:56:55"
+  },
+  {
+    "ticker": "KJEN",
+    "full_symbol": "KJEN.JK",
+    "fase": "FASE 2 - UPTREND",
+    "score": 125,
+    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), ⚠ Underperform IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, Market Mendukung, ⚠ Rally Lemah, Waspada Koreksi | TIER 3 - BAGUS (AKUM/Netral)",
+    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 120 | SL: 104 | TP: 151 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW NEGATIF | Close: 120.0",
+    "timestamp": "09-07-2026 06:56:55"
+  },
+  {
+    "ticker": "CSMI",
+    "full_symbol": "CSMI.JK",
+    "fase": "FASE 2 - UPTREND",
+    "score": 110,
+    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), ⚠ Underperform IHSG, Mark-Up Volume Boost, Tidak Low Baru, Market Mendukung | TIER 3 - BAGUS (AKUM/Netral)",
+    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 77 | SL: 64 | TP: 102 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW NEGATIF | Close: 77.0",
+    "timestamp": "09-07-2026 06:56:55"
+  },
+  {
+    "ticker": "MEDS",
+    "full_symbol": "MEDS.JK",
+    "fase": "FASE 2 - UPTREND",
+    "score": 120,
+    "alasan": "Bullish Structure, MA20 Slope Up, ⚠ Agak Jauh MA20 (Tunggu Pullback), Outperform IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, Market Mendukung | TIER 3 - BAGUS (AKUM/Netral)",
+    "info": "Saran: Nunggu Pullback | Entry: 73 | SL: 62 | TP: 94 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW KUAT | Close: 84.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "CMRY",
     "full_symbol": "CMRY.JK",
     "fase": "FASE 2 - UPTREND",
-    "score": 70,
-    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), Outperform IHSG, Tidak Low Baru, Higher Low, ⚠ Market Belum Mendukung, ⚠ Rally Lemah, Waspada Koreksi | TIER 6 - HATI-HATI (Netral/F_BUY)",
-    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 4610 | SL: 4330 | TP: 5175 | RR: 1:2.0 | Peluang: RENDAH | MF: MONEY FLOW NEGATIF | Close: 4610.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "score": 100,
+    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), ⚠ Underperform IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, Market Mendukung | TIER 6 - HATI-HATI (Netral/F_BUY)",
+    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 4750 | SL: 4460 | TP: 5350 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW KUAT | Close: 4750.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
-    "ticker": "INKP",
-    "full_symbol": "INKP.JK",
+    "ticker": "INTP",
+    "full_symbol": "INTP.JK",
     "fase": "FASE 2 - UPTREND",
     "score": 70,
-    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), Outperform IHSG, Tidak Low Baru, Higher Low, ⚠ Market Belum Mendukung | TIER 6 - HATI-HATI (Netral/F_BUY)",
-    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 7425 | SL: 6975 | TP: 8325 | RR: 1:2.0 | Peluang: RENDAH | MF: MONEY FLOW SANGAT KUAT | Close: 7425.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), ⚠ Underperform IHSG, Tidak Low Baru, Higher Low, Market Mendukung | TIER 6 - HATI-HATI (Netral/F_BUY)",
+    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 4400 | SL: 4160 | TP: 4870 | RR: 1:2.0 | Peluang: RENDAH | MF: MONEY FLOW KUAT | Close: 4400.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
-    "ticker": "BCIP",
-    "full_symbol": "BCIP.JK",
+    "ticker": "OILS",
+    "full_symbol": "OILS.JK",
+    "fase": "FASE 2 - UPTREND",
+    "score": 120,
+    "alasan": "Bullish Structure, MA20 Slope Up, ⚠ Agak Jauh MA20 (Tunggu Pullback), Leader Kuat vs IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, Market Mendukung | TIER 5 - NETRAL (Netral/Netral)",
+    "info": "Saran: Nunggu Pullback | Entry: 193 | SL: 160 | TP: 260 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW KUAT | Close: 224.0",
+    "timestamp": "09-07-2026 06:56:55"
+  },
+  {
+    "ticker": "LABS",
+    "full_symbol": "LABS.JK",
+    "fase": "FASE 2 - UPTREND",
+    "score": 115,
+    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), ⚠ Underperform IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, Market Mendukung, ⚠ Rally Lemah, Waspada Koreksi | TIER 5 - NETRAL (Netral/Netral)",
+    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 152 | SL: 141 | TP: 174 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW NEGATIF | Close: 152.0",
+    "timestamp": "09-07-2026 06:56:55"
+  },
+  {
+    "ticker": "PGEO",
+    "full_symbol": "PGEO.JK",
+    "fase": "FASE 2 - UPTREND",
+    "score": 115,
+    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), ⚠ Underperform IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, Market Mendukung | TIER 5 - NETRAL (Netral/Netral)",
+    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 940 | SL: 880 | TP: 1060 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW SANGAT KUAT | Close: 940.0",
+    "timestamp": "09-07-2026 06:56:55"
+  },
+  {
+    "ticker": "IKAN",
+    "full_symbol": "IKAN.JK",
+    "fase": "FASE 2 - UPTREND",
+    "score": 110,
+    "alasan": "Bullish Structure, MA20 Slope Up, ⚠ Agak Jauh MA20 (Tunggu Pullback), Outperform IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, Market Mendukung, ⚠ Rally Lemah, Waspada Koreksi | TIER 5 - NETRAL (Netral/Netral)",
+    "info": "Saran: Nunggu Pullback | Entry: 73 | SL: 64 | TP: 90 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW NEGATIF | Close: 81.0",
+    "timestamp": "09-07-2026 06:56:55"
+  },
+  {
+    "ticker": "BEEF",
+    "full_symbol": "BEEF.JK",
+    "fase": "FASE 2 - UPTREND",
+    "score": 105,
+    "alasan": "Bullish Structure, MA20 Slope Up, ⚠ Jauh Dari MA20 - Tunggu Pullback, Leader Kuat vs IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, Market Mendukung | TIER 5 - NETRAL (Netral/Netral)",
+    "info": "Saran: Nunggu Koreksi | Entry: 173 | SL: 131 | TP: 258 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW SANGAT KUAT | Close: 274.0",
+    "timestamp": "09-07-2026 06:56:55"
+  },
+  {
+    "ticker": "PIPA",
+    "full_symbol": "PIPA.JK",
     "fase": "FASE 2 - UPTREND",
     "score": 100,
-    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), Outperform IHSG, Mark-Up Volume Boost, Tidak Low Baru, ⚠ Market Belum Mendukung | TIER 5 - NETRAL (Netral/Netral)",
-    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 60 | SL: 54 | TP: 71 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW NEGATIF | Close: 60.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), ⚠ Underperform IHSG, Mark-Up Volume Boost, Tidak Low Baru, Market Mendukung, ⚠ Rally Lemah, Waspada Koreksi | TIER 5 - NETRAL (Netral/Netral)",
+    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 116 | SL: 98 | TP: 151 | RR: 1:2.0 | Peluang: TINGGI | MF: MONEY FLOW NEGATIF | Close: 116.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "BUVA",
     "full_symbol": "BUVA.JK",
     "fase": "FASE 2 - UPTREND",
     "score": 95,
-    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), Leader Kuat vs IHSG, Tidak Low Baru, Higher Low, ⚠ Market Belum Mendukung | TIER 5 - NETRAL (Netral/Netral)",
-    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 865 | SL: 725 | TP: 1140 | RR: 1:2.0 | Peluang: SEDANG | MF: MONEY FLOW SANGAT KUAT | Close: 865.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), Outperform IHSG, Tidak Low Baru, Market Mendukung | TIER 5 - NETRAL (Netral/Netral)",
+    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 825 | SL: 690 | TP: 1095 | RR: 1:2.0 | Peluang: SEDANG | MF: MONEY FLOW NEGATIF | Close: 825.0",
+    "timestamp": "09-07-2026 06:56:55"
+  },
+  {
+    "ticker": "FUTR",
+    "full_symbol": "FUTR.JK",
+    "fase": "FASE 2 - UPTREND",
+    "score": 90,
+    "alasan": "Bullish Structure, MA20 Slope Up, ⚠ Jauh Dari MA20 - Tunggu Pullback, Leader Kuat vs IHSG, Mark-Up Volume Boost, Tidak Low Baru, Market Mendukung | TIER 5 - NETRAL (Netral/Netral)",
+    "info": "Saran: Nunggu Koreksi | Entry: 174 | SL: 137 | TP: 248 | RR: 1:2.0 | Peluang: SEDANG | MF: MONEY FLOW SANGAT KUAT | Close: 218.0",
+    "timestamp": "09-07-2026 06:56:55"
+  },
+  {
+    "ticker": "HALO",
+    "full_symbol": "HALO.JK",
+    "fase": "FASE 2 - UPTREND",
+    "score": 85,
+    "alasan": "Bullish Structure, MA20 Slope Up, ⚠ Agak Jauh MA20 (Tunggu Pullback), ⚠ Underperform IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, Market Mendukung, ⚠ Rally Lemah, Waspada Koreksi | TIER 5 - NETRAL (Netral/Netral)",
+    "info": "Saran: Nunggu Pullback | Entry: 63 | SL: 55 | TP: 79 | RR: 1:2.0 | Peluang: SEDANG | MF: MONEY FLOW NEGATIF | Close: 69.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "CBRE",
     "full_symbol": "CBRE.JK",
     "fase": "FASE 2 - UPTREND",
-    "score": 95,
-    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), Leader Kuat vs IHSG, Tidak Low Baru, Higher Low, ⚠ Market Belum Mendukung | TIER 5 - NETRAL (Netral/Netral)",
-    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 730 | SL: 650 | TP: 885 | RR: 1:2.0 | Peluang: SEDANG | MF: MONEY FLOW SANGAT KUAT | Close: 730.0",
-    "timestamp": "08-07-2026 07:14:23"
-  },
-  {
-    "ticker": "PGEO",
-    "full_symbol": "PGEO.JK",
-    "fase": "FASE 2 - UPTREND",
-    "score": 85,
-    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), Outperform IHSG, Tidak Low Baru, Higher Low, ⚠ Market Belum Mendukung | TIER 5 - NETRAL (Netral/Netral)",
-    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 905 | SL: 845 | TP: 1020 | RR: 1:2.0 | Peluang: SEDANG | MF: MONEY FLOW POSITIF | Close: 905.0",
-    "timestamp": "08-07-2026 07:14:23"
-  },
-  {
-    "ticker": "PIPA",
-    "full_symbol": "PIPA.JK",
-    "fase": "FASE 2 - UPTREND",
-    "score": 85,
-    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), Outperform IHSG, Tidak Low Baru, Higher Low, ⚠ Market Belum Mendukung | TIER 5 - NETRAL (Netral/Netral)",
-    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 117 | SL: 100 | TP: 151 | RR: 1:2.0 | Peluang: SEDANG | MF: MONEY FLOW POSITIF | Close: 117.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "score": 70,
+    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), ⚠ Underperform IHSG, Tidak Low Baru, Market Mendukung | TIER 5 - NETRAL (Netral/Netral)",
+    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 685 | SL: 605 | TP: 845 | RR: 1:2.0 | Peluang: RENDAH | MF: MONEY FLOW SANGAT KUAT | Close: 685.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "PWON",
     "full_symbol": "PWON.JK",
     "fase": "FASE 2 - UPTREND",
-    "score": 85,
-    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), Outperform IHSG, Tidak Low Baru, Higher Low, ⚠ Market Belum Mendukung | TIER 5 - NETRAL (Netral/Netral)",
-    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 264 | SL: 248 | TP: 294 | RR: 1:2.0 | Peluang: SEDANG | MF: MONEY FLOW SANGAT KUAT | Close: 264.0",
-    "timestamp": "08-07-2026 07:14:23"
-  },
-  {
-    "ticker": "BEEF",
-    "full_symbol": "BEEF.JK",
-    "fase": "FASE 2 - UPTREND",
-    "score": 80,
-    "alasan": "Bullish Structure, MA20 Slope Up, ⚠ Jauh Dari MA20 - Tunggu Pullback, Leader Kuat vs IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, ⚠ Market Belum Mendukung | TIER 5 - NETRAL (Netral/Netral)",
-    "info": "Saran: Nunggu Koreksi | Entry: 166 | SL: 128 | TP: 242 | RR: 1:2.0 | Peluang: SEDANG | MF: MONEY FLOW SANGAT KUAT | Close: 262.0",
-    "timestamp": "08-07-2026 07:14:23"
-  },
-  {
-    "ticker": "LPKR",
-    "full_symbol": "LPKR.JK",
-    "fase": "FASE 2 - UPTREND",
-    "score": 75,
-    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), ⚠ Underperform IHSG, Mark-Up Volume Boost, Tidak Low Baru, ⚠ Market Belum Mendukung | TIER 5 - NETRAL (Netral/Netral)",
-    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 65 | SL: 59 | TP: 76 | RR: 1:2.0 | Peluang: SEDANG | MF: MONEY FLOW KUAT | Close: 65.0",
-    "timestamp": "08-07-2026 07:14:23"
-  },
-  {
-    "ticker": "SKBM",
-    "full_symbol": "SKBM.JK",
-    "fase": "FASE 2 - UPTREND",
     "score": 70,
-    "alasan": "Bullish Structure, MA20 Slope Up, ⚠ Jauh Dari MA20 - Tunggu Pullback, Outperform IHSG, Mark-Up Volume Boost, Tidak Low Baru, Higher Low, ⚠ Market Belum Mendukung | TIER 5 - NETRAL (Netral/Netral)",
-    "info": "Saran: Nunggu Koreksi | Entry: 515 | SL: 456 | TP: 635 | RR: 1:2.0 | Peluang: RENDAH | MF: MONEY FLOW POSITIF | Close: 645.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "alasan": "Bullish Structure, MA20 Slope Up, Entry Ideal (Dekat MA20), ⚠ Underperform IHSG, Tidak Low Baru, Market Mendukung | TIER 5 - NETRAL (Netral/Netral)",
+    "info": "Saran: Entry Sekarang (Dekat MA20) | Entry: 254 | SL: 238 | TP: 286 | RR: 1:2.0 | Peluang: RENDAH | MF: MONEY FLOW SANGAT KUAT | Close: 254.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
-    "ticker": "JSMR",
-    "full_symbol": "JSMR.JK",
+    "ticker": "BELL",
+    "full_symbol": "BELL.JK",
+    "fase": "FASE 3 - REVERSAL",
+    "score": 65,
+    "alasan": "Higher Low Terkonfirmasi, Tembus MA20, OBV Divergence Positif, ⚠ Belum Ada Konfirmasi Volume, Tidak Low Baru, Market Mendukung | TIER 6 - HATI-HATI (AKUM/F_BUY)",
+    "info": "Saran: Nunggu Konfirmasi Volume | Entry: 100 | SL: 90 | TP: 120 | RR: 1:2.0 | Peluang: SEDANG | MF: MONEY FLOW KUAT | Close: 112.0",
+    "timestamp": "09-07-2026 06:56:55"
+  },
+  {
+    "ticker": "GPRA",
+    "full_symbol": "GPRA.JK",
     "fase": "FASE 3 - REVERSAL",
     "score": 60,
-    "alasan": "Higher Low Terkonfirmasi, Tembus MA20, OBV Divergence Positif, ⚠ Belum Ada Konfirmasi Volume, Tidak Low Baru, ⚠ Market Masih Downtrend, Akumulasi Tersembunyi Kuat | TIER 6 - HATI-HATI (AKUM/F_BUY)",
-    "info": "Saran: Nunggu Konfirmasi Volume | Entry: 2770 | SL: 2580 | TP: 3150 | RR: 1:2.0 | Peluang: SEDANG | MF: MONEY FLOW KUAT | Close: 2780.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "alasan": "Higher Low Terkonfirmasi, Tembus MA20, Volume Konfirmasi Naik, Tidak Low Baru, Market Mendukung | TIER 6 - HATI-HATI (AKUM/Netral)",
+    "info": "Saran: Entry Sekarang (Konfirmasi HL) | Entry: 101 | SL: 94 | TP: 115 | RR: 1:2.0 | Peluang: SEDANG | MF: MONEY FLOW NEGATIF | Close: 101.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "MTEL",
@@ -266,17 +302,8 @@
     "fase": "TOP MARKET MAKER",
     "score": 0,
     "alasan": "TAK: 232.43 | TDS: 0.0 | TINV: 232.43 | FREQ AK: 6x | DIST: 0.0%",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 496 | SL: 468 | TP: 555 | Close: 496.0",
-    "timestamp": "08-07-2026 07:14:23"
-  },
-  {
-    "ticker": "MDKA",
-    "full_symbol": "MDKA.JK",
-    "fase": "TOP MARKET MAKER",
-    "score": 0,
-    "alasan": "TAK: 210.04 | TDS: 0.0 | TINV: 210.04 | FREQ AK: 5x | DIST: 0.0%",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 2720 | SL: 2420 | TP: 3310 | Close: 2720.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 490 | SL: 462 | TP: 550 | Close: 490.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "MARK",
@@ -284,8 +311,8 @@
     "fase": "TOP MARKET MAKER",
     "score": 0,
     "alasan": "TAK: 207.32 | TDS: 0.0 | TINV: 207.32 | FREQ AK: 6x | DIST: 0.0%",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 995 | SL: 930 | TP: 1125 | Close: 995.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 1025 | SL: 970 | TP: 1135 | Close: 1025.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "ANTM",
@@ -293,8 +320,8 @@
     "fase": "TOP MARKET MAKER",
     "score": 0,
     "alasan": "TAK: 152.91 | TDS: 0.0 | TINV: 152.91 | FREQ AK: 5x | DIST: 0.0%",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 2930 | SL: 2730 | TP: 3330 | Close: 2930.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 2790 | SL: 2580 | TP: 3200 | Close: 2790.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "BDKR",
@@ -303,7 +330,16 @@
     "score": 0,
     "alasan": "TAK: 98.7 | TDS: 0.0 | TINV: 98.7 | FREQ AK: 3x | DIST: 0.0%",
     "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
-    "timestamp": "08-07-2026 07:14:23"
+    "timestamp": "09-07-2026 06:56:55"
+  },
+  {
+    "ticker": "DATA",
+    "full_symbol": "DATA.JK",
+    "fase": "TOP MARKET MAKER",
+    "score": 0,
+    "alasan": "TAK: 93.4 | TDS: 0.0 | TINV: 93.4 | FREQ AK: 3x | DIST: 0.0%",
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 2080 | SL: 1830 | TP: 2580 | Close: 2080.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "NSSS",
@@ -311,8 +347,8 @@
     "fase": "TOP MARKET MAKER",
     "score": 0,
     "alasan": "TAK: 84.9 | TDS: 0.0 | TINV: 84.9 | FREQ AK: 3x | DIST: 0.0%",
-    "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
-    "timestamp": "08-07-2026 07:14:23"
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 620 | SL: 535 | TP: 785 | Close: 620.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "EPAC",
@@ -321,7 +357,16 @@
     "score": 0,
     "alasan": "TAK: 75.39 | TDS: 0.0 | TINV: 75.39 | FREQ AK: 2x | DIST: 0.0%",
     "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
-    "timestamp": "08-07-2026 07:14:23"
+    "timestamp": "09-07-2026 06:56:55"
+  },
+  {
+    "ticker": "HOPE",
+    "full_symbol": "HOPE.JK",
+    "fase": "TOP MARKET MAKER",
+    "score": 0,
+    "alasan": "TAK: 72.47999999999999 | TDS: 0.0 | TINV: 72.47999999999999 | FREQ AK: 2x | DIST: 0.0%",
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 143 | SL: 119 | TP: 190 | Close: 143.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "IMPC",
@@ -329,8 +374,8 @@
     "fase": "TOP MARKET MAKER",
     "score": 0,
     "alasan": "TAK: 70.58 | TDS: 0.0 | TINV: 70.58 | FREQ AK: 2x | DIST: 0.0%",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 1520 | SL: 1335 | TP: 1890 | Close: 1520.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 1490 | SL: 1305 | TP: 1860 | Close: 1490.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "ESIP",
@@ -338,8 +383,8 @@
     "fase": "TOP MARKET MAKER",
     "score": 0,
     "alasan": "TAK: 68.75 | TDS: 0.0 | TINV: 68.75 | FREQ AK: 3x | DIST: 0.0%",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 135 | SL: 114 | TP: 177 | Close: 135.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 127 | SL: 107 | TP: 167 | Close: 127.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "HATM",
@@ -347,17 +392,8 @@
     "fase": "TOP MARKET MAKER",
     "score": 0,
     "alasan": "TAK: 68.75 | TDS: 0.0 | TINV: 68.75 | FREQ AK: 3x | DIST: 0.0%",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 434 | SL: 392 | TP: 520 | Close: 434.0",
-    "timestamp": "08-07-2026 07:14:23"
-  },
-  {
-    "ticker": "PKPK",
-    "full_symbol": "PKPK.JK",
-    "fase": "TOP MARKET MAKER",
-    "score": 0,
-    "alasan": "TAK: 63.519999999999996 | TDS: 0.0 | TINV: 63.519999999999996 | FREQ AK: 2x | DIST: 0.0%",
-    "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
-    "timestamp": "08-07-2026 07:14:23"
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 450 | SL: 408 | TP: 535 | Close: 450.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "SMRA",
@@ -365,8 +401,8 @@
     "fase": "TOP MARKET MAKER",
     "score": 0,
     "alasan": "TAK: 60.69 | TDS: 0.0 | TINV: 60.69 | FREQ AK: 2x | DIST: 0.0%",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 290 | SL: 274 | TP: 322 | Close: 290.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 280 | SL: 262 | TP: 314 | Close: 280.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "BTPS",
@@ -375,16 +411,7 @@
     "score": 0,
     "alasan": "TAK: 60.22 | TDS: 0.0 | TINV: 60.22 | FREQ AK: 2x | DIST: 0.0%",
     "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
-    "timestamp": "08-07-2026 07:14:23"
-  },
-  {
-    "ticker": "DATA",
-    "full_symbol": "DATA.JK",
-    "fase": "TOP MARKET MAKER",
-    "score": 0,
-    "alasan": "TAK: 59.05 | TDS: 0.0 | TINV: 59.05 | FREQ AK: 2x | DIST: 0.0%",
-    "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
-    "timestamp": "08-07-2026 07:14:23"
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "MNCN",
@@ -392,8 +419,17 @@
     "fase": "TOP MARKET MAKER",
     "score": 0,
     "alasan": "TAK: 58.620000000000005 | TDS: 0.0 | TINV: 58.620000000000005 | FREQ AK: 2x | DIST: 0.0%",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 206 | SL: 197 | TP: 224 | Close: 206.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 202 | SL: 194 | TP: 218 | Close: 202.0",
+    "timestamp": "09-07-2026 06:56:55"
+  },
+  {
+    "ticker": "AYAM",
+    "full_symbol": "AYAM.JK",
+    "fase": "TOP MARKET MAKER",
+    "score": 0,
+    "alasan": "TAK: 48.55 | TDS: 0.0 | TINV: 48.55 | FREQ AK: 2x | DIST: 0.0%",
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 350 | SL: 330 | TP: 390 | Close: 350.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "RSCH",
@@ -401,8 +437,8 @@
     "fase": "TOP MARKET MAKER",
     "score": 0,
     "alasan": "TAK: 48.28 | TDS: 0.0 | TINV: 48.28 | FREQ AK: 2x | DIST: 0.0%",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 296 | SL: 260 | TP: 368 | Close: 296.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 292 | SL: 256 | TP: 364 | Close: 292.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "VICI",
@@ -411,7 +447,7 @@
     "score": 0,
     "alasan": "TAK: 47.81 | TDS: 0.0 | TINV: 47.81 | FREQ AK: 2x | DIST: 0.0%",
     "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
-    "timestamp": "08-07-2026 07:14:23"
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "KUAS",
@@ -419,8 +455,8 @@
     "fase": "TOP MARKET MAKER",
     "score": 0,
     "alasan": "TAK: 47.48 | TDS: 0.0 | TINV: 47.48 | FREQ AK: 1x | DIST: 0.0%",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 92 | SL: 80 | TP: 115 | Close: 92.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "MAIN",
@@ -429,7 +465,7 @@
     "score": 0,
     "alasan": "TAK: 47.31 | TDS: 0.0 | TINV: 47.31 | FREQ AK: 1x | DIST: 0.0%",
     "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
-    "timestamp": "08-07-2026 07:14:23"
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "EMDE",
@@ -438,16 +474,16 @@
     "score": 0,
     "alasan": "TAK: 47.05 | TDS: 0.0 | TINV: 47.05 | FREQ AK: 1x | DIST: 0.0%",
     "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
-    "timestamp": "08-07-2026 07:14:23"
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "MARK",
     "full_symbol": "MARK.JK",
     "fase": "TOP FOREIGN",
     "score": 0,
-    "alasan": "TFB: 32.69 | TFS: 0.0 | TINV: 32.69 | DIST: 0.0%",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 995 | SL: 930 | TP: 1125 | Close: 995.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "alasan": "TFB: 33.87 | TFS: 0.0 | TINV: 33.87 | DIST: 0.0%",
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 1025 | SL: 970 | TP: 1135 | Close: 1025.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "FILM",
@@ -456,7 +492,16 @@
     "score": 0,
     "alasan": "TFB: 28.310000000000002 | TFS: 0.0 | TINV: 28.310000000000002 | DIST: 0.0%",
     "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
-    "timestamp": "08-07-2026 07:14:23"
+    "timestamp": "09-07-2026 06:56:55"
+  },
+  {
+    "ticker": "JECX",
+    "full_symbol": "JECX.JK",
+    "fase": "TOP FOREIGN",
+    "score": 0,
+    "alasan": "TFB: 9.75 | TFS: 0.0 | TINV: 9.75 | DIST: 0.0%",
+    "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "BTPS",
@@ -465,7 +510,16 @@
     "score": 0,
     "alasan": "TFB: 6.77 | TFS: 0.0 | TINV: 6.77 | DIST: 0.0%",
     "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
-    "timestamp": "08-07-2026 07:14:23"
+    "timestamp": "09-07-2026 06:56:55"
+  },
+  {
+    "ticker": "BSSR",
+    "full_symbol": "BSSR.JK",
+    "fase": "TOP FOREIGN",
+    "score": 0,
+    "alasan": "TFB: 6.279999999999999 | TFS: 0.0 | TINV: 6.279999999999999 | DIST: 0.0%",
+    "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "CYBR",
@@ -473,8 +527,8 @@
     "fase": "TOP FOREIGN",
     "score": 0,
     "alasan": "TFB: 5.83 | TFS: 0.0 | TINV: 5.83 | DIST: 0.0%",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 560 | SL: 510 | TP: 655 | Close: 560.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 580 | SL: 535 | TP: 670 | Close: 580.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "TOTL",
@@ -483,16 +537,16 @@
     "score": 0,
     "alasan": "TFB: 5.5 | TFS: 0.0 | TINV: 5.5 | DIST: 0.0%",
     "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
-    "timestamp": "08-07-2026 07:14:23"
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
-    "ticker": "BSSR",
-    "full_symbol": "BSSR.JK",
+    "ticker": "MSJA",
+    "full_symbol": "MSJA.JK",
     "fase": "TOP FOREIGN",
     "score": 0,
-    "alasan": "TFB: 5.13 | TFS: 0.0 | TINV: 5.13 | DIST: 0.0%",
-    "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
-    "timestamp": "08-07-2026 07:14:23"
+    "alasan": "TFB: 3.27 | TFS: 0.0 | TINV: 3.27 | DIST: 0.0%",
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 420 | SL: 386 | TP: 486 | Close: 420.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "ARNA",
@@ -501,16 +555,25 @@
     "score": 0,
     "alasan": "TFB: 2.46 | TFS: 0.0 | TINV: 2.46 | DIST: 0.0%",
     "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
-    "timestamp": "08-07-2026 07:14:23"
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
-    "ticker": "MSJA",
-    "full_symbol": "MSJA.JK",
+    "ticker": "DEWI",
+    "full_symbol": "DEWI.JK",
     "fase": "TOP FOREIGN",
     "score": 0,
-    "alasan": "TFB: 2.17 | TFS: 0.0 | TINV: 2.17 | DIST: 0.0%",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 410 | SL: 376 | TP: 478 | Close: 410.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "alasan": "TFB: 2.31 | TFS: 0.0 | TINV: 2.31 | DIST: 0.0%",
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 119 | SL: 112 | TP: 133 | Close: 119.0",
+    "timestamp": "09-07-2026 06:56:55"
+  },
+  {
+    "ticker": "RGAS",
+    "full_symbol": "RGAS.JK",
+    "fase": "TOP FOREIGN",
+    "score": 0,
+    "alasan": "TFB: 1.49 | TFS: 0.0 | TINV: 1.49 | DIST: 0.0%",
+    "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "SOCI",
@@ -519,7 +582,7 @@
     "score": 0,
     "alasan": "TFB: 1.47 | TFS: 0.0 | TINV: 1.47 | DIST: 0.0%",
     "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
-    "timestamp": "08-07-2026 07:14:23"
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "GPSO",
@@ -528,7 +591,7 @@
     "score": 0,
     "alasan": "TFB: 1.44 | TFS: 0.0 | TINV: 1.44 | DIST: 0.0%",
     "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
-    "timestamp": "08-07-2026 07:14:23"
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "MNCN",
@@ -536,17 +599,8 @@
     "fase": "TOP FOREIGN",
     "score": 0,
     "alasan": "TFB: 1.25 | TFS: 0.0 | TINV: 1.25 | DIST: 0.0%",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 206 | SL: 197 | TP: 224 | Close: 206.0",
-    "timestamp": "08-07-2026 07:14:23"
-  },
-  {
-    "ticker": "DEWI",
-    "full_symbol": "DEWI.JK",
-    "fase": "TOP FOREIGN",
-    "score": 0,
-    "alasan": "TFB: 1.22 | TFS: 0.0 | TINV: 1.22 | DIST: 0.0%",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 119 | SL: 112 | TP: 133 | Close: 119.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 202 | SL: 194 | TP: 218 | Close: 202.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "NEST",
@@ -554,8 +608,8 @@
     "fase": "TOP FOREIGN",
     "score": 0,
     "alasan": "TFB: 1.2 | TFS: 0.0 | TINV: 1.2 | DIST: 0.0%",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 635 | SL: 600 | TP: 705 | Close: 635.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 660 | SL: 620 | TP: 735 | Close: 660.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "TSPC",
@@ -564,7 +618,7 @@
     "score": 0,
     "alasan": "TFB: 1.17 | TFS: 0.0 | TINV: 1.17 | DIST: 0.0%",
     "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
-    "timestamp": "08-07-2026 07:14:23"
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "ROTI",
@@ -573,7 +627,16 @@
     "score": 0,
     "alasan": "TFB: 1.14 | TFS: 0.0 | TINV: 1.14 | DIST: 0.0%",
     "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
-    "timestamp": "08-07-2026 07:14:23"
+    "timestamp": "09-07-2026 06:56:55"
+  },
+  {
+    "ticker": "NTBK",
+    "full_symbol": "NTBK.JK",
+    "fase": "TOP FOREIGN",
+    "score": 0,
+    "alasan": "TFB: 1.04 | TFS: 0.0 | TINV: 1.04 | DIST: 0.0%",
+    "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "VISI",
@@ -582,16 +645,7 @@
     "score": 0,
     "alasan": "TFB: 1.03 | TFS: 0.0 | TINV: 1.03 | DIST: 0.0%",
     "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
-    "timestamp": "08-07-2026 07:14:23"
-  },
-  {
-    "ticker": "INDF",
-    "full_symbol": "INDF.JK",
-    "fase": "TOP FOREIGN",
-    "score": 0,
-    "alasan": "TFB: 148.14000000000001 | TFS: 2.11 | TINV: 146.03 | DIST: 1.4%",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 6675 | SL: 6475 | TP: 7050 | Close: 6675.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "BANK",
@@ -600,25 +654,25 @@
     "score": 0,
     "alasan": "TFB: 59.2 | TFS: 2.93 | TINV: 56.27 | DIST: 4.9%",
     "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
-    "timestamp": "08-07-2026 07:14:23"
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
-    "ticker": "ULTJ",
-    "full_symbol": "ULTJ.JK",
-    "fase": "TOP FOREIGN",
-    "score": 0,
-    "alasan": "TFB: 3.56 | TFS: 0.0 | TINV: 3.56 | DIST: 0.0% | ⚠ Foreign Sell Terbaru (06/07/2026: 0.0B)",
-    "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
-    "timestamp": "08-07-2026 07:14:23"
+    "ticker": "BAIK",
+    "full_symbol": "BAIK.JK",
+    "fase": "RANKING INVENTORY",
+    "score": 53,
+    "alasan": "MM TINV Positif, Foreign TINV Positif, Tidak Low Baru",
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 660 | SL: 580 | TP: 820 | Close: 660.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
-    "ticker": "PKPK",
-    "full_symbol": "PKPK.JK",
-    "fase": "TOP FOREIGN",
-    "score": 0,
-    "alasan": "TFB: 3.37 | TFS: 0.0 | TINV: 3.37 | DIST: 0.0% | ⚠ Foreign Sell Terbaru (03/07/2026: 0.0B)",
-    "info": "Saran: Data tidak tersedia | Entry:  | SL:  | TP:  | Close: ",
-    "timestamp": "08-07-2026 07:14:23"
+    "ticker": "UVCR",
+    "full_symbol": "UVCR.JK",
+    "fase": "RANKING INVENTORY",
+    "score": 52,
+    "alasan": "MM TINV Positif, Foreign TINV Positif, Tidak Low Baru",
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 128 | SL: 104 | TP: 175 | Close: 128.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "MARK",
@@ -626,79 +680,79 @@
     "fase": "RANKING INVENTORY",
     "score": 107,
     "alasan": "MM TINV Positif, MM Distri 0%, Tanpa FreqDS, FreqAK Tinggi (6x), Foreign TINV Positif, Foreign Distri 0%, Tidak Low Baru",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 995 | SL: 930 | TP: 1125 | Close: 995.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 1025 | SL: 970 | TP: 1135 | Close: 1025.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "MNCN",
     "full_symbol": "MNCN.JK",
     "fase": "RANKING INVENTORY",
-    "score": 87,
+    "score": 88,
     "alasan": "MM TINV Positif, MM Distri 0%, Tanpa FreqDS, Foreign TINV Positif, Foreign Distri 0%, Tidak Low Baru",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 206 | SL: 197 | TP: 224 | Close: 206.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 202 | SL: 194 | TP: 218 | Close: 202.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
-    "ticker": "DEWI",
-    "full_symbol": "DEWI.JK",
+    "ticker": "IMPC",
+    "full_symbol": "IMPC.JK",
     "fase": "RANKING INVENTORY",
-    "score": 60,
-    "alasan": "MM TINV Positif, Foreign TINV Positif, Foreign Distri 0%, Tidak Low Baru",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 119 | SL: 112 | TP: 133 | Close: 119.0",
-    "timestamp": "08-07-2026 07:14:23"
-  },
-  {
-    "ticker": "ENRG",
-    "full_symbol": "ENRG.JK",
-    "fase": "RANKING INVENTORY",
-    "score": 54,
-    "alasan": "MM TINV Positif, Foreign TINV Positif, Tidak Low Baru",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 1140 | SL: 985 | TP: 1450 | Close: 1140.0",
-    "timestamp": "08-07-2026 07:14:23"
-  },
-  {
-    "ticker": "ANTM",
-    "full_symbol": "ANTM.JK",
-    "fase": "RANKING INVENTORY",
-    "score": 90,
-    "alasan": "MM TINV Positif, MM Distri 0%, Tanpa FreqDS, FreqAK Tinggi (5x), Foreign TINV Positif, Tidak Low Baru",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 2930 | SL: 2730 | TP: 3330 | Close: 2930.0",
-    "timestamp": "08-07-2026 07:14:23"
-  },
-  {
-    "ticker": "AYAM",
-    "full_symbol": "AYAM.JK",
-    "fase": "RANKING INVENTORY",
-    "score": 79,
+    "score": 84,
     "alasan": "MM TINV Positif, MM Distri 0%, Tanpa FreqDS, Foreign TINV Positif, Tidak Low Baru",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 356 | SL: 336 | TP: 396 | Close: 356.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 1490 | SL: 1305 | TP: 1860 | Close: 1490.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
-    "ticker": "MSJA",
-    "full_symbol": "MSJA.JK",
+    "ticker": "NSSS",
+    "full_symbol": "NSSS.JK",
     "fase": "RANKING INVENTORY",
-    "score": 61,
-    "alasan": "MM TINV Positif, Foreign TINV Positif, Foreign Distri 0%, Tidak Low Baru",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 410 | SL: 376 | TP: 478 | Close: 410.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "score": 84,
+    "alasan": "MM TINV Positif, MM Distri 0%, Tanpa FreqDS, Foreign TINV Positif, Tidak Low Baru",
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 620 | SL: 535 | TP: 785 | Close: 620.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "CYBR",
     "full_symbol": "CYBR.JK",
     "fase": "RANKING INVENTORY",
-    "score": 66,
+    "score": 69,
     "alasan": "MM TINV Positif, Foreign TINV Positif, Foreign Distri 0%, Tidak Low Baru",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 560 | SL: 510 | TP: 655 | Close: 560.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 580 | SL: 535 | TP: 670 | Close: 580.0",
+    "timestamp": "09-07-2026 06:56:55"
+  },
+  {
+    "ticker": "DEWI",
+    "full_symbol": "DEWI.JK",
+    "fase": "RANKING INVENTORY",
+    "score": 61,
+    "alasan": "MM TINV Positif, Foreign TINV Positif, Foreign Distri 0%, Tidak Low Baru",
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 119 | SL: 112 | TP: 133 | Close: 119.0",
+    "timestamp": "09-07-2026 06:56:55"
+  },
+  {
+    "ticker": "AYAM",
+    "full_symbol": "AYAM.JK",
+    "fase": "RANKING INVENTORY",
+    "score": 82,
+    "alasan": "MM TINV Positif, MM Distri 0%, Tanpa FreqDS, Foreign TINV Positif, Tidak Low Baru",
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 350 | SL: 330 | TP: 390 | Close: 350.0",
+    "timestamp": "09-07-2026 06:56:55"
+  },
+  {
+    "ticker": "MSJA",
+    "full_symbol": "MSJA.JK",
+    "fase": "RANKING INVENTORY",
+    "score": 62,
+    "alasan": "MM TINV Positif, Foreign TINV Positif, Foreign Distri 0%, Tidak Low Baru",
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 420 | SL: 386 | TP: 486 | Close: 420.0",
+    "timestamp": "09-07-2026 06:56:55"
   },
   {
     "ticker": "KETR",
     "full_symbol": "KETR.JK",
     "fase": "RANKING INVENTORY",
-    "score": 50,
+    "score": 51,
     "alasan": "MM TINV Positif, Foreign TINV Positif, Tidak Low Baru",
-    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 515 | SL: 474 | TP: 595 | Close: 515.0",
-    "timestamp": "08-07-2026 07:14:23"
+    "info": "Saran: Entry Sekarang (Acuan ATR) | Entry: 505 | SL: 464 | TP: 585 | Close: 505.0",
+    "timestamp": "09-07-2026 06:56:55"
   }
 ]
